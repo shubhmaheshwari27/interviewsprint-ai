@@ -1,17 +1,19 @@
 "use client"
 
 import { useState, useTransition } from "react"
+import { useRouter } from "next/navigation"
+import { signIn } from "next-auth/react"
 import { useForm } from "react-hook-form"
 import { zodResolver } from "@hookform/resolvers/zod"
 import { z } from "zod"
 import { toast } from "sonner"
-import { 
-  Form, 
-  FormControl, 
-  FormField, 
-  FormItem, 
-  FormLabel, 
-  FormMessage 
+import {
+  Form,
+  FormControl,
+  FormField,
+  FormItem,
+  FormLabel,
+  FormMessage
 } from "@/components/ui/form"
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
@@ -26,6 +28,7 @@ const RegisterSchema = z.object({
 
 export function RegisterForm() {
   const [isPending, startTransition] = useTransition()
+  const router = useRouter()
 
   const form = useForm<z.infer<typeof RegisterSchema>>({
     resolver: zodResolver(RegisterSchema),
@@ -45,6 +48,21 @@ export function RegisterForm() {
         toast.error(result.error)
       } else {
         toast.success("Account created successfully!")
+
+        // Auto-login
+        const signInResult = await signIn("credentials", {
+          email: values.email,
+          password: values.password,
+          redirect: false,
+        })
+
+        if (signInResult?.error) {
+          toast.error("Auto-login failed. Please log in manually.")
+          router.push("/login")
+        } else {
+          router.push("/dashboard")
+          router.refresh()
+        }
       }
     })
   }

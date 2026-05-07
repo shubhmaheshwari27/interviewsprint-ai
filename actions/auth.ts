@@ -37,11 +37,6 @@ export async function registerUser(
     await prisma.user.create({
       data: { name, email, password: hashedPassword },
     })
-
-    // Automatically sign in after registration
-    // Note: In Server Actions, we use signIn from @/lib/auth
-    await signIn("credentials", { email, password, redirectTo: "/dashboard" })
-
     return { success: true }
   } catch (error) {
     console.error("Registration error:", error)
