@@ -1,7 +1,7 @@
 "use client"
 
 import { useTransition } from "react"
-import { updateApplication } from "@/actions/applications"
+import { updateApplicationStatus } from "@/actions/applications"
 import { statusConfig } from "@/lib/utils"
 import { toast } from "sonner"
 import {
@@ -26,10 +26,7 @@ export function StatusUpdateDropdown({ applicationId, currentStatus }: StatusUpd
     if (status === currentStatus) return
 
     startTransition(async () => {
-      const formData = new FormData()
-      formData.append("status", status)
-      
-      const result = await updateApplication(applicationId, formData)
+      const result = await updateApplicationStatus(applicationId, status)
       if (result.success) {
         toast.success(`Status updated to ${statusConfig[status as keyof typeof statusConfig].label}`)
       } else {

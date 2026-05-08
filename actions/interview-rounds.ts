@@ -64,9 +64,22 @@ export async function updateInterviewRound(
   }
 
   try {
-    const data = {
-      ...parsed.data,
-      scheduledAt: parsed.data.scheduledAt ? new Date(parsed.data.scheduledAt) : undefined,
+    // CRITICAL FIX: Only include fields actually present in the FormData
+    // to prevent Zod's .default("") from overwriting existing values.
+    const submittedKeys = new Set(formData.keys())
+    const data: Record<string, unknown> = {}
+
+    for (const key of submittedKeys) {
+      if (key in parsed.data) {
+        if (key === "scheduledAt") {
+          const dateVal = (parsed.data as Record<string, unknown>)[key]
+          if (dateVal) {
+            data[key] = new Date(dateVal as string)
+          }
+        } else {
+          data[key] = (parsed.data as Record<string, unknown>)[key]
+        }
+      }
     }
 
     const round = await prisma.interviewRound.update({
