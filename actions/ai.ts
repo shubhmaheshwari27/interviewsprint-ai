@@ -39,10 +39,9 @@ export async function analyzeJobDescription(
 
     const responseText = response.choices[0].message.content
     if (!responseText) {
-      throw new Error("No response from OpenAI")
+      throw new Error("No response from AI service")
     }
 
-    console.log("Raw OpenAI Response:", responseText)
     const analysisData = JSON.parse(responseText)
 
     const analysis = await prisma.aIAnalysis.upsert({

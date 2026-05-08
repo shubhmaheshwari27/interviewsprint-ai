@@ -26,6 +26,7 @@ yarn-error.log*
 # local env files
 .env*.local
 .env
+.env.local
 
 # vercel
 .vercel
@@ -33,3 +34,27 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# internal planning & AI documentation (kept locally, ignored by git)
+*_GUIDE.md
+*_SPECIFICATION.md
+*_FLOW.md
+*_ARCHITECTURE.md
+*_SCHEMA.md
+*_STRUCTURE.md
+*_ROADMAP.md
+*_OPTIMIZATION.md
+*_REQUIREMENTS.md
+*_OVERVIEW.md
+*_GUIDELINES.md
+*_STRATEGY.md
+*_FEATURES.md
+STATE_MANAGEMENT.md
+walkthrough.md
+
+# development clutter
+/scratch
+/temp
+*.log
+.gemini
+.antigravity
