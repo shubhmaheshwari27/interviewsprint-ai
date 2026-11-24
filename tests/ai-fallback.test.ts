@@ -7,7 +7,7 @@ const JD =
 
 describe("detectSkills", () => {
   it("finds canonical skills and does not confuse Java with JavaScript or React with React Native", () => {
-    expect(detectSkills(JD)).toEqual(["Java", "React", "REST APIs", "SQL", "Spring Boot"])
+    expect(detectSkills(JD)).toEqual(["Java", "REST APIs", "React", "SQL", "Spring Boot"])
     expect(detectSkills("JavaScript and React Native")).toEqual(["JavaScript", "React Native"])
   })
 })
