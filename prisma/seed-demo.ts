@@ -62,6 +62,9 @@ async function main() {
       create: { email: DEMO_EMAIL, name: "Demo · Shubh's job hunt", password, isDemo: true, skills: DEMO_SKILLS },
     })
 
+    // The demo shows only real imported data: drop the made-up samples the old seed created.
+    await prisma.application.deleteMany({ where: { userId: user.id, source: { not: "IMPORT" } } })
+
     const applications = read<DemoApplication[]>("applications.json")
     const created = await prisma.application.createMany({
       skipDuplicates: true,
