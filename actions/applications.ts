@@ -1,6 +1,6 @@
 "use server"
 
-import { auth } from "@/lib/auth"
+import { requireWritableUser } from "@/lib/session-user"
 import { prisma } from "@/lib/prisma"
 import { revalidatePath } from "next/cache"
 import { z } from "zod"
@@ -14,8 +14,9 @@ import { CreateApplicationSchema, ApplicationStatusEnum } from "@/lib/schemas"
 export async function createApplication(
   formData: FormData
 ): Promise<ActionResult<Application>> {
-  const session = await auth()
-  if (!session?.user?.id) return { success: false, error: "Unauthorized" }
+  const writable = await requireWritableUser()
+  if ("error" in writable) return { success: false, error: writable.error }
+  const session = { user: { id: writable.id } }
 
   const parsed = CreateApplicationSchema.safeParse(Object.fromEntries(formData))
   if (!parsed.success) {
@@ -44,8 +45,9 @@ export async function updateApplicationStatus(
   id: string,
   status: string
 ): Promise<ActionResult<Application>> {
-  const session = await auth()
-  if (!session?.user?.id) return { success: false, error: "Unauthorized" }
+  const writable = await requireWritableUser()
+  if ("error" in writable) return { success: false, error: writable.error }
+  const session = { user: { id: writable.id } }
 
   const parsed = ApplicationStatusEnum.safeParse(status)
   if (!parsed.success) {
@@ -78,8 +80,9 @@ export async function updateApplication(
   id: string,
   formData: FormData
 ): Promise<ActionResult<Application>> {
-  const session = await auth()
-  if (!session?.user?.id) return { success: false, error: "Unauthorized" }
+  const writable = await requireWritableUser()
+  if ("error" in writable) return { success: false, error: writable.error }
+  const session = { user: { id: writable.id } }
 
   const UpdateSchema = CreateApplicationSchema.partial()
   const raw = Object.fromEntries(formData)
@@ -134,8 +137,9 @@ export async function updateApplication(
 export async function deleteApplication(
   id: string
 ): Promise<ActionResult<void>> {
-  const session = await auth()
-  if (!session?.user?.id) return { success: false, error: "Unauthorized" }
+  const writable = await requireWritableUser()
+  if ("error" in writable) return { success: false, error: writable.error }
+  const session = { user: { id: writable.id } }
 
   try {
     const result = await prisma.application.deleteMany({

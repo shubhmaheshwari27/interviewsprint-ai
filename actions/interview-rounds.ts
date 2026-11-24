@@ -1,6 +1,6 @@
 "use server"
 
-import { auth } from "@/lib/auth"
+import { requireWritableUser } from "@/lib/session-user"
 import { prisma } from "@/lib/prisma"
 import { revalidatePath } from "next/cache"
 import { z } from "zod"
@@ -15,8 +15,9 @@ export async function createInterviewRound(
   applicationId: string,
   formData: FormData
 ): Promise<ActionResult<InterviewRound>> {
-  const session = await auth()
-  if (!session?.user?.id) return { success: false, error: "Unauthorized" }
+  const writable = await requireWritableUser()
+  if ("error" in writable) return { success: false, error: writable.error }
+  const session = { user: { id: writable.id } }
 
   const application = await prisma.application.findFirst({
     where: { id: applicationId, userId: session.user.id }
@@ -49,8 +50,9 @@ export async function updateInterviewRound(
   applicationId: string,
   formData: FormData
 ): Promise<ActionResult<InterviewRound>> {
-  const session = await auth()
-  if (!session?.user?.id) return { success: false, error: "Unauthorized" }
+  const writable = await requireWritableUser()
+  if ("error" in writable) return { success: false, error: writable.error }
+  const session = { user: { id: writable.id } }
 
   const application = await prisma.application.findFirst({
     where: { id: applicationId, userId: session.user.id }
@@ -98,8 +100,9 @@ export async function deleteInterviewRound(
   roundId: string,
   applicationId: string
 ): Promise<ActionResult<void>> {
-  const session = await auth()
-  if (!session?.user?.id) return { success: false, error: "Unauthorized" }
+  const writable = await requireWritableUser()
+  if ("error" in writable) return { success: false, error: writable.error }
+  const session = { user: { id: writable.id } }
 
   const application = await prisma.application.findFirst({
     where: { id: applicationId, userId: session.user.id }

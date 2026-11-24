@@ -25,7 +25,11 @@ export function AIAnalysisSection({ applicationId, initialAnalysis }: AIAnalysis
     startTransition(async () => {
       const result = await analyzeJobDescription(applicationId)
       if (result.success) {
-        toast.success("AI Analysis generated!")
+        if (result.data.degradedReason) {
+          toast.warning(`${result.data.degradedReason} Showing the offline analysis instead.`)
+        } else {
+          toast.success("AI Analysis generated!")
+        }
         setAnalysis(result.data)
       } else {
         toast.error(result.error)
@@ -87,6 +91,14 @@ export function AIAnalysisSection({ applicationId, initialAnalysis }: AIAnalysis
         <div className="flex items-center gap-2">
           <Sparkles className="h-5 w-5 text-primary" />
           <h2 className="text-xl font-bold">AI Preparation Guide</h2>
+          {analysis.source === "RULES" && (
+            <Badge
+              variant="outline"
+              title="The AI service was unavailable, so this was generated from the job description and your profile skills."
+            >
+              Offline analysis
+            </Badge>
+          )}
         </div>
         <Button variant="outline" size="sm" onClick={handleAnalyze} disabled={isPending}>
           <Brain className="mr-2 h-4 w-4" /> Refresh Analysis

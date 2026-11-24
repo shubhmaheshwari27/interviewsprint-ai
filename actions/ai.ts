@@ -1,88 +1,100 @@
 "use server"
 
-import { auth } from "@/lib/auth"
 import { prisma } from "@/lib/prisma"
-import { openai, AI_PROMPTS } from "@/lib/openai"
+import { getOpenAI, AI_MODEL, AI_PROMPTS } from "@/lib/openai"
+import { buildRuleBasedAnalysis, parseAIResponse, type Analysis } from "@/lib/ai/analysis"
+import { getSessionUser } from "@/lib/session-user"
 import { revalidatePath } from "next/cache"
 import type { ActionResult } from "@/types/actions"
 import type { AIAnalysis } from "@prisma/client"
 
-export async function analyzeJobDescription(
-  applicationId: string
-): Promise<ActionResult<AIAnalysis>> {
-  const session = await auth()
-  if (!session?.user?.id) return { success: false, error: "Unauthorized" }
+/**
+ * Simple circuit breaker: after the AI provider fails, skip it for a minute and
+ * serve the offline analysis straight away instead of making every user wait
+ * for another timeout. Lives per server instance, which is enough here.
+ */
+const COOLDOWN_MS = 60_000
+let aiUnavailableUntil = 0
 
-  const application = await prisma.application.findFirst({
-    where: { id: applicationId, userId: session.user.id }
-  })
+type AnalysisResult = AIAnalysis & { degradedReason?: string }
 
-  if (!application || !application.jobDescription) {
-    return { success: false, error: "Application or Job Description not found." }
-  }
+async function generateWithAI(company: string, role: string, jd: string): Promise<Analysis> {
+  const client = getOpenAI()
+  if (!client) throw new AIUnavailable("AI is not configured on this server.")
+  if (Date.now() < aiUnavailableUntil) throw new AIUnavailable("AI was unavailable a moment ago.")
 
   try {
-    const prompt = AI_PROMPTS.ANALYZE_JD(
-      application.companyName,
-      application.roleTitle,
-      application.jobDescription
-    )
-
-    const response = await openai.chat.completions.create({
-      model: "gpt-4.1-mini",
+    const response = await client.chat.completions.create({
+      model: AI_MODEL,
       messages: [
         { role: "system", content: "You are a helpful career assistant that only responds in JSON." },
-        { role: "user", content: prompt }
+        { role: "user", content: AI_PROMPTS.ANALYZE_JD(company, role, jd) },
       ],
       response_format: { type: "json_object" },
     })
-
-    const responseText = response.choices[0].message.content
-    if (!responseText) {
-      throw new Error("No response from AI service")
-    }
-
-    const analysisData = JSON.parse(responseText)
-
-    const analysis = await prisma.aIAnalysis.upsert({
-      where: { applicationId },
-      update: {
-        ...analysisData,
-        updatedAt: new Date(),
-      },
-      create: {
-        ...analysisData,
-        applicationId,
-      },
-    })
-
-    revalidatePath(`/dashboard/applications/${applicationId}`)
-    return { success: true, data: analysis }
+    return parseAIResponse(response.choices[0]?.message?.content)
   } catch (error: any) {
-    // Keep detailed logs server-side
-    console.error("AI Analysis internal error:", {
-      message: error.message,
-      stack: error.stack,
-      status: error.status,
+    aiUnavailableUntil = Date.now() + COOLDOWN_MS
+    console.error("AI analysis failed, using offline analysis:", {
+      message: error?.message,
+      status: error?.status,
     })
+    throw new AIUnavailable(friendlyReason(error))
+  }
+}
 
-    // Sanitize message for the frontend
-    let userMessage = "AI analysis failed. Please try again."
-    
-    const errorMessage = error.message?.toLowerCase() || ""
-    const status = error.status
+class AIUnavailable extends Error {}
 
-    if (status === 429 || errorMessage.includes("quota") || errorMessage.includes("rate limit")) {
-      userMessage = "AI service is temporarily busy. Please try again in a few moments."
-    } else if (status === 401 || status === 403 || errorMessage.includes("api key") || errorMessage.includes("unauthorized")) {
-      userMessage = "AI configuration issue detected."
-    } else if (error instanceof SyntaxError || errorMessage.includes("parse") || errorMessage.includes("json")) {
-      userMessage = "Unable to process AI response right now."
-    }
+function friendlyReason(error: any): string {
+  const message = String(error?.message ?? "").toLowerCase()
+  if (error?.status === 429 || message.includes("quota") || message.includes("rate limit")) return "The AI service is busy."
+  if (error?.status === 401 || error?.status === 403) return "The AI service rejected the request."
+  if (message.includes("timeout") || message.includes("timed out")) return "The AI service took too long to answer."
+  if (error?.name === "ZodError" || error instanceof SyntaxError) return "The AI returned an unusable answer."
+  return "The AI service is unavailable."
+}
 
-    return { 
-      success: false, 
-      error: userMessage
-    }
+export async function analyzeJobDescription(applicationId: string): Promise<ActionResult<AnalysisResult>> {
+  const user = await getSessionUser()
+  if (!user) return { success: false, error: "Unauthorized" }
+
+  const application = await prisma.application.findFirst({
+    where: { id: applicationId, userId: user.id },
+  })
+  if (!application || !application.jobDescription) {
+    return { success: false, error: "Add a job description to this application first." }
+  }
+
+  let analysis: Analysis
+  let source: "AI" | "RULES" = "AI"
+  let degradedReason: string | undefined
+
+  try {
+    // The demo account never calls the paid AI provider.
+    if (user.isDemo) throw new AIUnavailable("The demo account uses the offline analysis.")
+    analysis = await generateWithAI(application.companyName, application.roleTitle, application.jobDescription)
+  } catch (error) {
+    if (!(error instanceof AIUnavailable)) console.error("Unexpected AI error:", error)
+    source = "RULES"
+    degradedReason = error instanceof AIUnavailable ? error.message : "The AI service is unavailable."
+    analysis = buildRuleBasedAnalysis({
+      roleTitle: application.roleTitle,
+      companyName: application.companyName,
+      jobDescription: application.jobDescription,
+      userSkills: user.skills,
+    })
+  }
+
+  try {
+    const saved = await prisma.aIAnalysis.upsert({
+      where: { applicationId },
+      update: { ...analysis, source, updatedAt: new Date() },
+      create: { ...analysis, source, applicationId },
+    })
+    revalidatePath(`/dashboard/applications/${applicationId}`)
+    return { success: true, data: { ...saved, degradedReason } }
+  } catch (error) {
+    console.error("Saving analysis failed:", error)
+    return { success: false, error: "Could not save the analysis. Please try again." }
   }
 }
