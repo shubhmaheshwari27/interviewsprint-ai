@@ -7,14 +7,14 @@ const JD =
 
 describe("detectSkills", () => {
   it("finds canonical skills and does not confuse Java with JavaScript or React with React Native", () => {
-    expect(detectSkills(JD)).toEqual(["Java", "React", "SQL", "Spring Boot"])
+    expect(detectSkills(JD)).toEqual(["Java", "React", "REST APIs", "SQL", "Spring Boot"])
     expect(detectSkills("JavaScript and React Native")).toEqual(["JavaScript", "React Native"])
   })
 })
 
 describe("buildRuleBasedAnalysis (offline fallback)", () => {
   it("produces a valid analysis with gaps based on the user's skills", () => {
-    const a = buildRuleBasedAnalysis({ roleTitle: "React Developer", companyName: "Acme", jobDescription: JD, userSkills: ["React", "Java", "SQL"] })
+    const a = buildRuleBasedAnalysis({ roleTitle: "React Developer", companyName: "Acme", jobDescription: JD, userSkills: ["React", "Java", "SQL", "REST APIs"] })
     expect(() => AnalysisSchema.parse(a)).not.toThrow()
     expect(a.skillGaps.map((g) => g.skill)).toEqual(["Spring Boot"])
     expect(a.interviewQuestions.some((q) => q.category.includes("Spring Boot"))).toBe(true)
