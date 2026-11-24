@@ -13,7 +13,7 @@ import { join } from "node:path"
 const DEMO_EMAIL = process.env.NEXT_PUBLIC_DEMO_EMAIL || "demo@interviewsprint.dev"
 const DEMO_PASSWORD = process.env.NEXT_PUBLIC_DEMO_PASSWORD || "demo-sprint-2026"
 const DEMO_SKILLS = ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "Express", "Java", "SQL", "MongoDB",
-  "AWS", "Docker", "CI/CD", "Microservices", "GenAI/LLM"]
+  "AWS", "Docker", "CI/CD", "Microservices", "GenAI/LLM", "REST APIs", "HTML/CSS"]
 
 type DemoApplication = {
   externalKey: string; date: string; companyName: string; roleTitle: string

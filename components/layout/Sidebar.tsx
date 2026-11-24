@@ -8,8 +8,9 @@ import {
   Settings, 
   LogOut,
   Sparkles,
-  Search,
-  PlusCircle
+  PlusCircle,
+  BarChart3,
+  Radar,
 } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
@@ -27,6 +28,24 @@ const routes = [
     icon: Briefcase,
     href: "/dashboard/applications",
     color: "text-violet-500",
+  },
+  {
+    label: "Analytics",
+    icon: BarChart3,
+    href: "/dashboard/analytics",
+    color: "text-emerald-500",
+  },
+  {
+    label: "Market Gap",
+    icon: Radar,
+    href: "/dashboard/market",
+    color: "text-amber-500",
+  },
+  {
+    label: "Settings",
+    icon: Settings,
+    href: "/dashboard/settings",
+    color: "text-slate-500",
   },
   {
     label: "AI Preparation",

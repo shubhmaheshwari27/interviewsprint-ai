@@ -4,7 +4,8 @@
  * finds it in free text (job descriptions, role titles).
  */
 export const SKILL_PATTERNS: Record<string, RegExp> = {
-  JavaScript: /\bjavascript\b|\bjs\b|\bes6\b/i,
+  // "js" only as a standalone word, so "React.js" / "Node.js" don't count as JavaScript.
+  JavaScript: /\bjavascript\b|(?<![.\w])js\b|\bes6\b/i,
   TypeScript: /\btypescript\b|\bts\b/i,
   React: /\breact(?:\.?js)?\b(?!\s*native)/i,
   "Next.js": /\bnext\.?js\b/i,
@@ -36,6 +37,8 @@ export const SKILL_PATTERNS: Record<string, RegExp> = {
   Microservices: /\bmicroservices?\b/i,
   GraphQL: /\bgraphql\b/i,
   "Kafka/RabbitMQ": /\bkafka\b|\brabbitmq\b/i,
+  "REST APIs": /\brest(?:ful)?\b(?:\s*apis?)?/i,
+  "HTML/CSS": /\bhtml5?\b|\bcss3?\b/i,
   Tailwind: /\btailwind\b/i,
   Redux: /\bredux\b/i,
   "GenAI/LLM": /\bllms?\b|\bgenai\b|generative ai|\brag\b|\blangchain\b|\bagentic\b/i,

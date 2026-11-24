@@ -9,7 +9,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Django",
+   "Django/FastAPI/Flask",
    "Next.js",
    "Python",
    "React",
@@ -28,10 +28,10 @@
   "skills": [
    "Kubernetes",
    "MongoDB",
-   "PostgreSQL",
    "Python",
    "React",
-   "Redux"
+   "Redux",
+   "SQL"
   ]
  },
  {
@@ -43,10 +43,7 @@
   "expBand": "3–5 yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": [
-   "MERN",
-   "Three.js"
-  ]
+  "skills": []
  },
  {
   "externalKey": "c804c8248275639b260269dd",
@@ -58,8 +55,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "CSS",
-   "HTML",
+   "HTML/CSS",
    "JavaScript"
   ]
  },
@@ -88,8 +84,8 @@
   "skills": [
    "AWS",
    "Go",
-   "MySQL",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -133,7 +129,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   ".NET",
+   ".NET/C#",
    "Angular"
   ]
  },
@@ -167,7 +163,7 @@
    "Express",
    "MongoDB",
    "Node.js",
-   "PostgreSQL",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -206,7 +202,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   ".NET"
+   ".NET/C#"
   ]
  },
  {
@@ -240,7 +236,11 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Other",
-  "skills": []
+  "skills": [
+   "Next.js",
+   "Node.js",
+   "React"
+  ]
  },
  {
   "externalKey": "4ca788b5cbfb8a3841464195",
@@ -273,7 +273,9 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": []
+  "skills": [
+   "Node.js"
+  ]
  },
  {
   "externalKey": "437555136cd5f9951c537eae",
@@ -295,7 +297,11 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Other",
-  "skills": []
+  "skills": [
+   ".NET/C#",
+   "AWS",
+   "Angular"
+  ]
  },
  {
   "externalKey": "0a4be9a08d8a0f149742843c",
@@ -342,7 +348,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Django",
+   "Django/FastAPI/Flask",
    "Python",
    "React"
   ]
@@ -395,7 +401,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   ".NET",
+   ".NET/C#",
    "SQL"
   ]
  },
@@ -435,7 +441,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Linux",
    "Python"
   ]
  },
@@ -449,7 +454,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Ruby on Rails",
    "SQL"
   ]
  },
@@ -478,10 +482,9 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "DB2",
    "Java",
    "React",
-   "Spring"
+   "Spring Boot"
   ]
  },
  {
@@ -496,7 +499,7 @@
   "skills": [
    "Go",
    "Next.js",
-   "PostgreSQL",
+   "SQL",
    "Tailwind",
    "TypeScript"
   ]
@@ -511,7 +514,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Django",
+   "Django/FastAPI/Flask",
    "Python",
    "React"
   ]
@@ -527,11 +530,11 @@
   "blocker": "Skills",
   "skills": [
    "AWS",
-   "FastAPI",
+   "Django/FastAPI/Flask",
    "Next.js",
-   "PostgreSQL",
    "Python",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -544,8 +547,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Django",
-   "FastAPI",
+   "Django/FastAPI/Flask",
    "Next.js",
    "Python",
    "React"
@@ -587,9 +589,9 @@
   "blocker": "Skills",
   "skills": [
    "Java",
-   "MySQL",
    "REST APIs",
    "React",
+   "SQL",
    "Spring Boot"
   ]
  },
@@ -618,7 +620,7 @@
   "blocker": "Skills",
   "skills": [
    "AWS",
-   "Django",
+   "Django/FastAPI/Flask",
    "Python",
    "React",
    "React Native"
@@ -635,9 +637,9 @@
   "blocker": "Skills",
   "skills": [
    "JavaScript",
-   "PostgreSQL",
    "REST APIs",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -651,11 +653,11 @@
   "blocker": "None (applied)",
   "skills": [
    "Express",
-   "LLMs",
+   "GenAI/LLM",
    "Microservices",
    "MongoDB",
    "Node.js",
-   "PostgreSQL",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -701,8 +703,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "CSS",
-   "HTML",
+   "HTML/CSS",
    "JavaScript",
    "React"
   ]
@@ -800,8 +801,7 @@
   "blocker": "Skills",
   "skills": [
    "AWS",
-   "Azure",
-   "Claude Code"
+   "Azure"
   ]
  },
  {
@@ -863,7 +863,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "AI integration",
    "Express",
    "MongoDB",
    "Node.js",
@@ -880,7 +879,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Agile",
    "Node.js"
   ]
  },
@@ -896,7 +894,6 @@
   "skills": [
    "JavaScript",
    "Node.js",
-   "OpenAI API",
    "React"
   ]
  },
@@ -914,9 +911,9 @@
    "Express",
    "Next.js",
    "Node.js",
-   "PostgreSQL",
    "REST APIs",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -930,7 +927,7 @@
   "blocker": "Skills",
   "skills": [
    "Angular",
-   "Django",
+   "Django/FastAPI/Flask",
    "Java"
   ]
  },
@@ -944,7 +941,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   ".NET",
+   ".NET/C#",
    "SQL"
   ]
  },
@@ -959,10 +956,7 @@
   "blocker": "Skills",
   "skills": [
    "Docker",
-   "Helm",
-   "Kubernetes",
-   "Linux",
-   "OpenStack"
+   "Kubernetes"
   ]
  },
  {
@@ -974,10 +968,7 @@
   "expBand": "0–1 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "Automation",
-   "Testing"
-  ]
+  "skills": []
  },
  {
   "externalKey": "32dd037722fe893f8c8610c9",
@@ -990,7 +981,6 @@
   "blocker": "Skills",
   "skills": [
    "AWS",
-   "DSA",
    "Java",
    "Spring Boot"
   ]
@@ -1037,8 +1027,6 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Agile",
-   "Git",
    "Java"
   ]
  },
@@ -1069,10 +1057,8 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "C",
    "C++",
    "HTML/CSS",
-   "J2EE",
    "Java",
    "SQL"
   ]
@@ -1087,7 +1073,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Adobe Experience Manager",
    "HTML/CSS"
   ]
  },
@@ -1100,9 +1085,7 @@
   "expBand": "0–1 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "BPO Voice"
-  ]
+  "skills": []
  },
  {
   "externalKey": "4244fabb21aaeb85bb4795ef",
@@ -1114,10 +1097,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "DBMS",
-   "DSA",
-   "Java",
-   "OOP"
+   "Java"
   ]
  },
  {
@@ -1130,10 +1110,9 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Hibernate",
    "Java",
    "Microservices",
-   "MySQL",
+   "SQL",
    "Spring Boot"
   ]
  },
@@ -1147,7 +1126,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "AI tools",
    "AWS",
    "Azure"
   ]
@@ -1165,7 +1143,7 @@
    "Angular",
    "Java",
    "MongoDB",
-   "MySQL"
+   "SQL"
   ]
  },
  {
@@ -1180,8 +1158,8 @@
   "skills": [
    "AWS",
    "Angular",
-   "CSS",
-   "Docker"
+   "Docker",
+   "HTML/CSS"
   ]
  },
  {
@@ -1194,10 +1172,8 @@
   "decision": "SKIPPED",
   "blocker": "Degree or certification",
   "skills": [
-   "DSA",
    "Docker",
    "Java",
-   "PostgreSQL",
    "SQL",
    "Spring Boot"
   ]
@@ -1260,10 +1236,10 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "CSS",
-   "Cypress",
+   "HTML/CSS",
    "Next.js",
-   "React"
+   "React",
+   "Testing/QA automation"
   ]
  },
  {
@@ -1349,7 +1325,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "DSA",
    "Docker",
    "HTML/CSS"
   ]
@@ -1378,8 +1353,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "ASP.NET",
-   "C#",
+   ".NET/C#",
    "JavaScript"
   ]
  },
@@ -1417,10 +1391,7 @@
   "expBand": "0–1 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "API design",
-   "Databases"
-  ]
+  "skills": []
  },
  {
   "externalKey": "b7af919326947bd6e1fc8758",
@@ -1432,8 +1403,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "CSS",
-   "Frontend build tools"
+   "HTML/CSS"
   ]
  },
  {
@@ -1448,9 +1418,7 @@
   "skills": [
    "AWS",
    "Next.js",
-   "React",
-   "SEO",
-   "SSR"
+   "React"
   ]
  },
  {
@@ -1466,8 +1434,8 @@
    "AWS",
    "Java",
    "JavaScript",
-   "PostgreSQL",
    "REST APIs",
+   "SQL",
    "Spring Boot"
   ]
  },
@@ -1481,10 +1449,9 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Agentic AI",
+   "GenAI/LLM",
    "JavaScript",
    "Node.js",
-   "Prompt engineering",
    "React"
   ]
  },
@@ -1498,7 +1465,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "FastAPI",
+   "Django/FastAPI/Flask",
    "Python",
    "React"
   ]
@@ -1513,8 +1480,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   ".NET",
-   "C#",
+   ".NET/C#",
    "React",
    "TypeScript"
   ]
@@ -1528,11 +1494,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "API design",
-   "Automated testing",
-   "DSA"
-  ]
+  "skills": []
  },
  {
   "externalKey": "4d163dcc5be12977b8fb3988",
@@ -1547,8 +1509,8 @@
    "Java",
    "JavaScript",
    "Microservices",
-   "MySQL",
    "React",
+   "SQL",
    "Spring Boot"
   ]
  },
@@ -1564,7 +1526,7 @@
   "skills": [
    "JavaScript",
    "Node.js",
-   "PHP",
+   "PHP/Laravel",
    "React"
   ]
  },
@@ -1592,8 +1554,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Claude Code",
-   "Cursor",
    "JavaScript",
    "Python",
    "TypeScript"
@@ -1609,7 +1569,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "APIs",
    "Angular",
    "Java"
   ]
@@ -1624,10 +1583,9 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "ASP.NET",
-   "Cursor",
+   ".NET/C#",
    "React",
-   "SQL Server",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -1658,7 +1616,6 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "NoSQL",
    "Node.js",
    "REST APIs",
    "React"
@@ -1675,9 +1632,9 @@
   "blocker": "None (applied)",
   "skills": [
    "Node.js",
-   "PostgreSQL",
    "React",
    "Redux",
+   "SQL",
    "Vue"
   ]
  },
@@ -1711,10 +1668,10 @@
   "skills": [
    "Angular",
    "MongoDB",
-   "MySQL",
    "Node.js",
    "Python",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -1727,9 +1684,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "API integration",
-   "Cloud",
-   "Core Java"
+   "Java"
   ]
  },
  {
@@ -1742,9 +1697,8 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Android",
+   "Android/Kotlin",
    "Java",
-   "Kotlin",
    "React",
    "Spring Boot"
   ]
@@ -1759,7 +1713,6 @@
   "decision": "SKIPPED",
   "blocker": "Degree or certification",
   "skills": [
-   "Hibernate",
    "Java",
    "JavaScript",
    "SQL"
@@ -1777,10 +1730,10 @@
   "skills": [
    "HTML/CSS",
    "JavaScript",
-   "MySQL",
-   "PHP",
+   "PHP/Laravel",
    "Python",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -1794,7 +1747,6 @@
   "blocker": "None (applied)",
   "skills": [
    "C++",
-   "DSA",
    "HTML/CSS",
    "Java",
    "JavaScript",
@@ -1812,11 +1764,11 @@
   "blocker": "None (applied)",
   "skills": [
    "Angular",
-   "MySQL",
    "Node.js",
-   "PHP",
+   "PHP/Laravel",
    "REST APIs",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -1830,12 +1782,11 @@
   "blocker": "Skills",
   "skills": [
    "AWS",
-   "Laravel",
-   "MySQL",
    "Node.js",
-   "PHP",
+   "PHP/Laravel",
    "Python",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -1849,7 +1800,6 @@
   "blocker": "Skills",
   "skills": [
    "Express",
-   "NestJS",
    "Node.js"
   ]
  },
@@ -1865,7 +1815,6 @@
   "skills": [
    "Express",
    "Node.js",
-   "PostgreSQL",
    "REST APIs",
    "React",
    "SQL",
@@ -1900,7 +1849,6 @@
   "blocker": "Skills",
   "skills": [
    "Express",
-   "Git",
    "MongoDB",
    "Node.js",
    "REST APIs",
@@ -1917,11 +1865,10 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Git",
    "JavaScript",
    "MongoDB",
-   "MySQL",
    "React",
+   "SQL",
    "Spring Boot"
   ]
  },
@@ -1948,7 +1895,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "APIs",
    "Java",
    "Python"
   ]
@@ -1963,8 +1909,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "CSS",
-   "HTML",
+   "HTML/CSS",
    "JavaScript"
   ]
  },
@@ -2005,10 +1950,7 @@
   "expBand": "0–1 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "AI tools",
-   "Full Stack"
-  ]
+  "skills": []
  },
  {
   "externalKey": "a6d8dacc11ac3d3c46b34cee",
@@ -2034,11 +1976,9 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "CSS",
-   "HTML",
+   "HTML/CSS",
    "Next.js",
-   "React",
-   "Storybook"
+   "React"
   ]
  },
  {
@@ -2068,10 +2008,8 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "CSS",
-   "HTML",
-   "JavaScript",
-   "UI/UX"
+   "HTML/CSS",
+   "JavaScript"
   ]
  },
  {
@@ -2085,8 +2023,7 @@
   "blocker": "Skills",
   "skills": [
    "AWS",
-   "Azure",
-   "Claude Code"
+   "Azure"
   ]
  },
  {
@@ -2099,8 +2036,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "Cloud",
-   "Django",
+   "Django/FastAPI/Flask",
    "Next.js",
    "Python",
    "React"
@@ -2117,11 +2053,9 @@
   "blocker": "None (applied)",
   "skills": [
    "Express",
-   "MySQL",
    "Node.js",
-   "Payment integration",
    "REST APIs",
-   "Sequelize"
+   "SQL"
   ]
  },
  {
@@ -2134,9 +2068,8 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   ".NET",
+   ".NET/C#",
    "Angular",
-   "C#",
    "Docker"
   ]
  },
@@ -2150,7 +2083,6 @@
   "decision": "SKIPPED",
   "blocker": "Degree or certification",
   "skills": [
-   "DSA",
    "Java",
    "SQL",
    "Spring Boot"
@@ -2220,7 +2152,9 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Other",
-  "skills": []
+  "skills": [
+   "React"
+  ]
  },
  {
   "externalKey": "0b35f47365b6ca3a3d972ba8",
@@ -2243,9 +2177,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Bootstrap",
-   "CSS",
-   "HTML",
+   "HTML/CSS",
    "JavaScript",
    "REST APIs",
    "React",
@@ -2262,9 +2194,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Bootstrap",
-   "CSS",
-   "HTML",
+   "HTML/CSS",
    "JavaScript",
    "React"
   ]
@@ -2279,7 +2209,6 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "DSA",
    "Java",
    "Python"
   ]
@@ -2310,9 +2239,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Git",
-   "Laravel",
-   "PHP",
+   "PHP/Laravel",
    "SQL"
   ]
  },
@@ -2336,7 +2263,9 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Other",
-  "skills": []
+  "skills": [
+   "Java"
+  ]
  },
  {
   "externalKey": "05b4ea07978c71886e10f6b7",
@@ -2347,7 +2276,9 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Other",
-  "skills": []
+  "skills": [
+   "Java"
+  ]
  },
  {
   "externalKey": "0fe286d40c8fe6799f92d486",
@@ -2391,7 +2322,10 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Other",
-  "skills": []
+  "skills": [
+   "Next.js",
+   "React"
+  ]
  },
  {
   "externalKey": "e3ccca6d29e619a31e0670c2",
@@ -2402,7 +2336,9 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Other",
-  "skills": []
+  "skills": [
+   "Java"
+  ]
  },
  {
   "externalKey": "72e724c3052df6b58f4ed54c",
@@ -2414,11 +2350,10 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "AI tools",
    "Angular",
    "Java",
-   "PostgreSQL",
    "REST APIs",
+   "SQL",
    "Spring Boot"
   ]
  },
@@ -2432,13 +2367,10 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "DSA",
    "Express",
-   "LLM APIs",
-   "MERN",
+   "GenAI/LLM",
    "MongoDB",
    "Node.js",
-   "RAG",
    "React"
   ]
  },
@@ -2452,12 +2384,10 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "NestJS",
    "Next.js",
    "Node.js",
-   "PostgreSQL",
-   "Prisma",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -2475,8 +2405,8 @@
    "MongoDB",
    "Next.js",
    "Node.js",
-   "PostgreSQL",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -2492,8 +2422,7 @@
    "JavaScript",
    "React",
    "Redux",
-   "TypeScript",
-   "Zustand"
+   "TypeScript"
   ]
  },
  {
@@ -2536,12 +2465,11 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "DynamoDB",
    "Express",
    "JavaScript",
    "MongoDB",
-   "MySQL",
-   "Node.js"
+   "Node.js",
+   "SQL"
   ]
  },
  {
@@ -2555,7 +2483,6 @@
   "blocker": "None (applied)",
   "skills": [
    "Node.js",
-   "PostgreSQL",
    "Redis",
    "SQL"
   ]
@@ -2587,7 +2514,6 @@
   "blocker": "None (applied)",
   "skills": [
    "Node.js",
-   "Prompt Engineering",
    "React"
   ]
  },
@@ -2604,9 +2530,9 @@
    "AWS",
    "Docker",
    "MongoDB",
-   "MySQL",
    "Node.js",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -2621,7 +2547,6 @@
   "blocker": "None (applied)",
   "skills": [
    "Express",
-   "Firebase",
    "GCP",
    "Node.js"
   ]
@@ -2638,9 +2563,8 @@
   "skills": [
    "JavaScript",
    "MongoDB",
-   "MySQL",
    "Node.js",
-   "PostgreSQL"
+   "SQL"
   ]
  },
  {
@@ -2682,8 +2606,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "CSS",
-   "HTML",
+   "HTML/CSS",
    "Node.js",
    "REST APIs",
    "React",
@@ -2701,11 +2624,10 @@
   "blocker": "Skills",
   "skills": [
    "Express",
-   "Firebase",
    "MongoDB",
    "Node.js",
-   "PostgreSQL",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -2719,8 +2641,6 @@
   "blocker": "Skills",
   "skills": [
    "GraphQL",
-   "MERN",
-   "NestJS",
    "Next.js",
    "Node.js",
    "React"
@@ -2769,8 +2689,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "CSS",
-   "HTML",
+   "HTML/CSS",
    "JavaScript",
    "MongoDB",
    "Node.js",
@@ -2787,7 +2706,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Full Stack",
    "Node.js",
    "React"
   ]
@@ -2833,8 +2751,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "CSS",
-   "Git",
+   "HTML/CSS",
    "Next.js",
    "React",
    "Tailwind"
@@ -2852,8 +2769,7 @@
   "skills": [
    "JavaScript",
    "Next.js",
-   "React",
-   "Testing"
+   "React"
   ]
  },
  {
@@ -2899,10 +2815,9 @@
    "GraphQL",
    "Java",
    "MongoDB",
-   "MySQL",
    "Node.js",
-   "PostgreSQL",
-   "REST APIs"
+   "REST APIs",
+   "SQL"
   ]
  },
  {
@@ -2915,9 +2830,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "CSS",
-   "Git",
-   "HTML",
+   "HTML/CSS",
    "Java",
    "JavaScript",
    "Node.js"
@@ -2933,7 +2846,6 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Context API",
    "JavaScript",
    "React",
    "Redux"
@@ -2969,8 +2881,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "CSS",
-   "HTML",
+   "HTML/CSS",
    "JavaScript",
    "React",
    "Redux"
@@ -2987,10 +2898,8 @@
   "blocker": "None (applied)",
   "skills": [
    "Express",
-   "NestJS",
    "Node.js",
-   "React",
-   "Shopify"
+   "React"
   ]
  },
  {
@@ -3003,8 +2912,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "CSS",
-   "HTML",
+   "HTML/CSS",
    "JavaScript",
    "React",
    "Redux"
@@ -3022,8 +2930,8 @@
   "skills": [
    "Java",
    "JavaScript",
-   "MySQL",
    "React",
+   "SQL",
    "Spring Boot",
    "TypeScript"
   ]
@@ -3039,7 +2947,6 @@
   "blocker": "Skills",
   "skills": [
    "JavaScript",
-   "Material UI",
    "React",
    "TypeScript"
   ]
@@ -3055,8 +2962,7 @@
   "blocker": "None (applied)",
   "skills": [
    "Next.js",
-   "React",
-   "State Management"
+   "React"
   ]
  },
  {
@@ -3072,8 +2978,8 @@
    "Go",
    "JavaScript",
    "Next.js",
-   "PostgreSQL",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -3088,8 +2994,7 @@
   "blocker": "Skills",
   "skills": [
    "Angular",
-   "CSS",
-   "HTML",
+   "HTML/CSS",
    "JavaScript",
    "Node.js",
    "React"
@@ -3122,8 +3027,6 @@
   "blocker": "None (applied)",
   "skills": [
    "Java",
-   "MySQL",
-   "PostgreSQL",
    "REST APIs",
    "SQL",
    "Spring Boot"
@@ -3154,9 +3057,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "1d5ba6c2a7bcbc647544a316",
@@ -3167,7 +3068,10 @@
   "expBand": "5+ yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": []
+  "skills": [
+   "JavaScript",
+   "React"
+  ]
  },
  {
   "externalKey": "00cc623c407d17dae136468b",
@@ -3226,10 +3130,9 @@
   "skills": [
    "Express",
    "Node.js",
-   "PostgreSQL",
    "REST APIs",
    "React",
-   "Sequelize"
+   "SQL"
   ]
  },
  {
@@ -3258,9 +3161,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "0da092f1fee17a1476049a50",
@@ -3275,7 +3176,7 @@
    "Express",
    "MongoDB",
    "Node.js",
-   "REST API"
+   "REST APIs"
   ]
  },
  {
@@ -3289,9 +3190,8 @@
   "blocker": "None (applied)",
   "skills": [
    "Express",
-   "MySQL",
    "Node.js",
-   "PostgreSQL"
+   "SQL"
   ]
  },
  {
@@ -3316,9 +3216,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "Full Stack"
-  ]
+  "skills": []
  },
  {
   "externalKey": "cf5a951fc0435e99fb3953c1",
@@ -3385,9 +3283,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "Full Stack"
-  ]
+  "skills": []
  },
  {
   "externalKey": "37cc78ce117e26336782f8a2",
@@ -3398,9 +3294,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "Full Stack"
-  ]
+  "skills": []
  },
  {
   "externalKey": "f70fc20ea59f3769d3061afe",
@@ -3411,9 +3305,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "Full Stack"
-  ]
+  "skills": []
  },
  {
   "externalKey": "6d37fdc620aa10d2d0ff6b32",
@@ -3424,9 +3316,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "Full Stack"
-  ]
+  "skills": []
  },
  {
   "externalKey": "8123f5cc77f39696054e67b0",
@@ -3437,9 +3327,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "Full Stack"
-  ]
+  "skills": []
  },
  {
   "externalKey": "ef10bf7694ec7b9b6a0e00de",
@@ -3504,7 +3392,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "J2EE",
    "Java"
   ]
  },
@@ -3548,8 +3435,7 @@
   "decision": "SKIPPED",
   "blocker": "Degree or certification",
   "skills": [
-   "SAP BW",
-   "SAP Certification",
+   "SAP",
    "SQL"
   ]
  },
@@ -3576,9 +3462,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "Full Stack"
-  ]
+  "skills": []
  },
  {
   "externalKey": "786416ff31e67a4c1c6abd0d",
@@ -3604,9 +3488,7 @@
   "expBand": "1–2 yrs",
   "decision": "APPLIED",
   "blocker": "None (applied)",
-  "skills": [
-   "Full Stack"
-  ]
+  "skills": []
  },
  {
   "externalKey": "040700be9fd7989915649961",
@@ -3633,7 +3515,6 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "CouchDB",
    "Next.js",
    "Node.js",
    "React"
@@ -3722,11 +3603,10 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Hibernate",
    "Java",
-   "MySQL",
    "REST APIs",
    "React",
+   "SQL",
    "Spring Boot"
   ]
  },
@@ -3838,8 +3718,8 @@
    "CI/CD",
    "MongoDB",
    "Node.js",
-   "PostgreSQL",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -3857,8 +3737,7 @@
    "Express",
    "MongoDB",
    "Node.js",
-   "React",
-   "Stripe"
+   "React"
   ]
  },
  {
@@ -3928,7 +3807,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Flutter",
+   "Flutter/Dart",
    "Node.js"
   ]
  },
@@ -3942,7 +3821,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Flutter",
+   "Flutter/Dart",
    "Node.js"
   ]
  },
@@ -3999,13 +3878,11 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "LLM",
+   "GenAI/LLM",
    "Next.js",
    "Node.js",
-   "RAG",
    "React",
-   "TypeScript",
-   "Vector DB"
+   "TypeScript"
   ]
  },
  {
@@ -4018,8 +3895,8 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
+   "GenAI/LLM",
    "Java",
-   "LLM",
    "MongoDB",
    "React",
    "TypeScript"
@@ -4035,10 +3912,9 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "LLM",
+   "GenAI/LLM",
    "Next.js",
    "Node.js",
-   "RAG",
    "React",
    "TypeScript"
   ]
@@ -4052,10 +3928,7 @@
   "expBand": "0–1 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "AI",
-   "Full Stack"
-  ]
+  "skills": []
  },
  {
   "externalKey": "359f9d0a23cd66a15c04294a",
@@ -4066,10 +3939,7 @@
   "expBand": "0–1 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "AI",
-   "Full Stack"
-  ]
+  "skills": []
  },
  {
   "externalKey": "97e8eb7b3053781768f276ec",
@@ -4084,8 +3954,8 @@
    "AWS",
    "Docker",
    "Node.js",
-   "PostgreSQL",
    "Redis",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -4099,8 +3969,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "LLM",
-   "System Design"
+   "GenAI/LLM"
   ]
  },
  {
@@ -4112,12 +3981,7 @@
   "expBand": "0–1 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "Blockchain",
-   "Haskell",
-   "Scala",
-   "Solidity"
-  ]
+  "skills": []
  },
  {
   "externalKey": "4800716a0e23770ddb6dce9a",
@@ -4129,9 +3993,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "Distributed Systems",
    "Java",
-   "LangGraph",
    "Next.js",
    "Python"
   ]
@@ -4146,11 +4008,10 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
+   "Django/FastAPI/Flask",
    "Docker",
-   "FastAPI",
-   "PostgreSQL",
    "Python",
-   "SQLAlchemy"
+   "SQL"
   ]
  },
  {
@@ -4164,7 +4025,7 @@
   "blocker": "None (applied)",
   "skills": [
    "Angular",
-   "FastAPI",
+   "Django/FastAPI/Flask",
    "JavaScript",
    "MongoDB",
    "Python",
@@ -4198,11 +4059,11 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Django",
+   "Django/FastAPI/Flask",
    "Docker",
-   "PostgreSQL",
    "Python",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -4216,12 +4077,10 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "JWT",
    "Next.js",
    "Node.js",
-   "PostgreSQL",
-   "RBAC",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -4237,7 +4096,6 @@
   "skills": [
    "Docker",
    "JavaScript",
-   "Jest",
    "Node.js",
    "React",
    "TypeScript"
@@ -4253,10 +4111,8 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "AI Agents",
-   "LLM",
-   "Python",
-   "Voice AI"
+   "GenAI/LLM",
+   "Python"
   ]
  },
  {
@@ -4269,7 +4125,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Flutter",
+   "Flutter/Dart",
    "Next.js",
    "React",
    "React Native",
@@ -4288,8 +4144,7 @@
   "blocker": "Experience",
   "skills": [
    "Node.js",
-   "OAuth",
-   "PostgreSQL",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -4303,7 +4158,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "C",
    "C++",
    "Node.js",
    "TypeScript"
@@ -4319,8 +4173,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   ".NET",
-   "C#"
+   ".NET/C#"
   ]
  },
  {
@@ -4336,11 +4189,11 @@
    "Express",
    "HTML/CSS",
    "JavaScript",
-   "MySQL",
    "Node.js",
    "REST APIs",
    "React",
-   "Redux"
+   "Redux",
+   "SQL"
   ]
  },
  {
@@ -4367,14 +4220,12 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "Elasticsearch",
    "Express",
-   "Kafka",
+   "Kafka/RabbitMQ",
    "MongoDB",
    "Node.js",
-   "PostgreSQL",
-   "RabbitMQ",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -4387,8 +4238,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Distributed Systems",
-   "Elixir",
    "Go",
    "Microservices",
    "Node.js",
@@ -4405,13 +4254,12 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "BullMQ",
    "Express",
-   "Kafka",
+   "Kafka/RabbitMQ",
    "MongoDB",
-   "MySQL",
    "Node.js",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -4426,9 +4274,8 @@
   "blocker": "None (applied)",
   "skills": [
    "Node.js",
-   "PostgreSQL",
-   "RBAC",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -4463,12 +4310,12 @@
    "AWS",
    "CI/CD",
    "Docker",
+   "GenAI/LLM",
    "JavaScript",
-   "LLM",
    "Next.js",
    "Node.js",
-   "PostgreSQL",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -4499,8 +4346,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "CSS",
-   "Figma",
+   "HTML/CSS",
    "React"
   ]
  },
@@ -4513,9 +4359,7 @@
   "expBand": "2–3 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "Full Stack"
-  ]
+  "skills": []
  },
  {
   "externalKey": "47f724eff70fb084ec9871dd",
@@ -4529,10 +4373,8 @@
   "skills": [
    "Java",
    "Microservices",
-   "MySQL",
    "Node.js",
-   "PostgreSQL",
-   "System Design"
+   "SQL"
   ]
  },
  {
@@ -4577,11 +4419,9 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "DSA",
-   "MySQL",
    "Node.js",
-   "PostgreSQL",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -4594,13 +4434,12 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
+   "GenAI/LLM",
    "GraphQL",
-   "LLM",
-   "NestJS",
    "Next.js",
    "Node.js",
-   "PostgreSQL",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -4615,11 +4454,10 @@
   "blocker": "Skills",
   "skills": [
    "JavaScript",
-   "Jest",
-   "MySQL",
    "Node.js",
    "React",
    "Redux",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -4653,9 +4491,7 @@
    "Node.js",
    "REST APIs",
    "React",
-   "TDD",
-   "TypeScript",
-   "WebSockets"
+   "TypeScript"
   ]
  },
  {
@@ -4672,9 +4508,7 @@
    "Node.js",
    "Python",
    "SQL",
-   "TypeScript",
-   "Zapier",
-   "n8n"
+   "TypeScript"
   ]
  },
  {
@@ -4687,7 +4521,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Geospatial",
    "React"
   ]
  },
@@ -4701,11 +4534,11 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Django",
+   "Django/FastAPI/Flask",
    "Docker",
-   "PostgreSQL",
    "Python",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -4719,7 +4552,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Blockchain",
    "C++",
    "Node.js",
    "TypeScript"
@@ -4735,12 +4567,12 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "FastAPI",
-   "LLM",
+   "Django/FastAPI/Flask",
+   "GenAI/LLM",
    "Next.js",
-   "PostgreSQL",
    "Python",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -4752,9 +4584,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "Stack mismatch (AEC tooling: Python/C++/.NET)"
-  ]
+  "skills": []
  },
  {
   "externalKey": "f336055e9acca57bb9fbc928",
@@ -4769,8 +4599,8 @@
    "AWS",
    "Go",
    "Node.js",
-   "PostgreSQL",
-   "Python"
+   "Python",
+   "SQL"
   ]
  },
  {
@@ -4795,9 +4625,7 @@
   "expBand": "5+ yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": [
-   "Distributed Systems"
-  ]
+  "skills": []
  },
  {
   "externalKey": "c8b67483e06ec7369a9e4108",
@@ -4809,8 +4637,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Elixir",
-   "Golang",
+   "Go",
    "Node.js",
    "Python",
    "SQL"
@@ -4825,10 +4652,7 @@
   "expBand": "Not stated",
   "decision": "APPLIED",
   "blocker": "None (applied)",
-  "skills": [
-   "Backend",
-   "System Design"
-  ]
+  "skills": []
  },
  {
   "externalKey": "3b67ed198dbbbc325eeba85f",
@@ -4855,9 +4679,9 @@
   "blocker": "Skills",
   "skills": [
    "Express",
-   "MySQL",
    "Node.js",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -4871,9 +4695,9 @@
   "blocker": "Skills",
   "skills": [
    "Express",
-   "MySQL",
    "Node.js",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -4886,7 +4710,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "FastAPI",
+   "Django/FastAPI/Flask",
    "Python",
    "React"
   ]
@@ -4901,7 +4725,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "FastAPI",
+   "Django/FastAPI/Flask",
    "Next.js",
    "Node.js",
    "Python",
@@ -4918,7 +4742,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "Django",
+   "Django/FastAPI/Flask",
    "Python",
    "React"
   ]
@@ -4949,9 +4773,9 @@
   "blocker": "Skills",
   "skills": [
    "AWS",
-   "FastAPI",
-   "PostgreSQL",
-   "Python"
+   "Django/FastAPI/Flask",
+   "Python",
+   "SQL"
   ]
  },
  {
@@ -4982,8 +4806,6 @@
    "JavaScript",
    "Next.js",
    "React",
-   "SEO",
-   "Signals",
    "Tailwind",
    "TypeScript"
   ]
@@ -5000,8 +4822,7 @@
   "skills": [
    "Next.js",
    "Python",
-   "React",
-   "UI Design"
+   "React"
   ]
  },
  {
@@ -5028,7 +4849,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Framer Motion",
    "JavaScript",
    "React",
    "Redux",
@@ -5062,8 +4882,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Android",
-   "Fastify",
+   "Android/Kotlin",
    "MongoDB",
    "Node.js",
    "React"
@@ -5080,8 +4899,8 @@
   "blocker": "None (applied)",
   "skills": [
    "Node.js",
-   "PostgreSQL",
    "REST APIs",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -5112,7 +4931,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Django",
+   "Django/FastAPI/Flask",
    "Python"
   ]
  },
@@ -5126,8 +4945,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Backend",
-   "Flutter"
+   "Flutter/Dart"
   ]
  },
  {
@@ -5141,10 +4959,9 @@
   "blocker": "Skills",
   "skills": [
    "AWS",
-   "Django",
-   "FastAPI",
-   "PostgreSQL",
-   "Python"
+   "Django/FastAPI/Flask",
+   "Python",
+   "SQL"
   ]
  },
  {
@@ -5168,8 +4985,8 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
+   "GenAI/LLM",
    "Java",
-   "LLM",
    "Python"
   ]
  },
@@ -5197,7 +5014,7 @@
    "AWS",
    "Java",
    "MongoDB",
-   "PostgreSQL"
+   "SQL"
   ]
  },
  {
@@ -5210,7 +5027,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "Django",
+   "Django/FastAPI/Flask",
    "Python",
    "React",
    "TypeScript"
@@ -5253,9 +5070,9 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   ".NET",
-   "PostgreSQL",
+   ".NET/C#",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -5283,7 +5100,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "FastAPI",
+   "Django/FastAPI/Flask",
    "Python"
   ]
  },
@@ -5297,8 +5114,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "AWS",
-   "Ruby"
+   "AWS"
   ]
  },
  {
@@ -5330,9 +5146,9 @@
   "skills": [
    "AWS",
    "Node.js",
-   "PostgreSQL",
    "REST APIs",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -5374,8 +5190,8 @@
   "blocker": "Skills",
   "skills": [
    "Next.js",
-   "PostgreSQL",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -5405,7 +5221,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "FastAPI",
+   "Django/FastAPI/Flask",
    "Next.js",
    "Node.js",
    "Python",
@@ -5422,7 +5238,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "Django",
+   "Django/FastAPI/Flask",
    "Node.js",
    "Python",
    "React"
@@ -5439,8 +5255,8 @@
   "blocker": "Skills",
   "skills": [
    "Java",
-   "PostgreSQL",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -5469,8 +5285,8 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
+   "GenAI/LLM",
    "Java",
-   "LLM",
    "Spring Boot"
   ]
  },
@@ -5498,7 +5314,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "FastAPI",
+   "Django/FastAPI/Flask",
    "Python"
   ]
  },
@@ -5514,13 +5330,11 @@
   "skills": [
    "AWS",
    "Express",
-   "Linux",
    "MongoDB",
    "Next.js",
-   "Nginx",
    "Node.js",
-   "PostgreSQL",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -5533,9 +5347,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Backend",
-   "LLM Agents",
-   "LLM Evaluation"
+   "GenAI/LLM"
   ]
  },
  {
@@ -5548,10 +5360,10 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "MySQL",
    "Next.js",
    "Node.js",
    "React",
+   "SQL",
    "TypeScript"
   ]
  },
@@ -5569,7 +5381,6 @@
    "Node.js",
    "REST APIs",
    "SQL",
-   "Serverless",
    "TypeScript"
   ]
  },
@@ -5585,9 +5396,9 @@
   "skills": [
    "Express",
    "Node.js",
-   "PostgreSQL",
    "REST APIs",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -5603,8 +5414,8 @@
    "Express",
    "JavaScript",
    "MongoDB",
-   "MySQL",
-   "Node.js"
+   "Node.js",
+   "SQL"
   ]
  },
  {
@@ -5618,7 +5429,6 @@
   "blocker": "Skills",
   "skills": [
    "CI/CD",
-   "Desktop/Native OS",
    "DevOps",
    "JavaScript",
    "Node.js",
@@ -5637,8 +5447,8 @@
   "skills": [
    "Go",
    "Node.js",
-   "PostgreSQL",
-   "REST APIs"
+   "REST APIs",
+   "SQL"
   ]
  },
  {
@@ -5652,8 +5462,7 @@
   "blocker": "Skills",
   "skills": [
    "Node.js",
-   "Python",
-   "Zoho"
+   "Python"
   ]
  },
  {
@@ -5681,10 +5490,10 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Flutter",
-   "Kotlin",
+   "Android/Kotlin",
+   "Flutter/Dart",
    "React Native",
-   "Swift"
+   "iOS/Swift"
   ]
  },
  {
@@ -5727,9 +5536,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Django",
-   "FastAPI",
-   "Flask",
+   "Django/FastAPI/Flask",
    "Python",
    "React"
   ]
@@ -5778,8 +5585,7 @@
   "skills": [
    "Next.js",
    "Redux",
-   "TypeScript",
-   "Zustand"
+   "TypeScript"
   ]
  },
  {
@@ -5825,9 +5631,7 @@
   "skills": [
    "Go",
    "Java",
-   "JavaScript",
-   "Ruby",
-   "Scala"
+   "JavaScript"
   ]
  },
  {
@@ -5841,8 +5645,7 @@
   "blocker": "Experience",
   "skills": [
    "Go",
-   "Java",
-   "Ruby"
+   "Java"
   ]
  },
  {
@@ -5886,7 +5689,7 @@
   "blocker": "Experience",
   "skills": [
    "Go",
-   "PostgreSQL"
+   "SQL"
   ]
  },
  {
@@ -5899,8 +5702,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Go",
-   "Ruby"
+   "Go"
   ]
  },
  {
@@ -5928,8 +5730,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Django",
-   "FastAPI",
+   "Django/FastAPI/Flask",
    "Next.js",
    "Python"
   ]
@@ -5989,7 +5790,6 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "AI",
    "Python"
   ]
  },
@@ -6034,8 +5834,7 @@
    "AWS",
    "Angular",
    "Docker",
-   "Express.js",
-   "Jest",
+   "Express",
    "MongoDB",
    "Node.js",
    "React",
@@ -6141,12 +5940,11 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "MySQL",
    "Next.js",
    "Node.js",
-   "PostgreSQL",
    "REST APIs",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -6174,10 +5972,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "Liquid",
-   "Shopify"
-  ]
+  "skills": []
  },
  {
   "externalKey": "74fb390805ca987c499df16c",
@@ -6205,7 +6000,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "LangChain",
+   "GenAI/LLM",
    "Next.js",
    "Node.js",
    "React",
@@ -6223,7 +6018,7 @@
   "blocker": "Experience",
   "skills": [
    "AWS",
-   "LLM",
+   "GenAI/LLM",
    "Next.js",
    "React"
   ]
@@ -6280,7 +6075,6 @@
   "blocker": "Skills",
   "skills": [
    "JavaScript",
-   "MERN",
    "TypeScript"
   ]
  },
@@ -6312,9 +6106,9 @@
   "skills": [
    "Docker",
    "Node.js",
-   "PostgreSQL",
    "Python",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -6517,7 +6311,7 @@
   "skills": [
    "AWS",
    "Java",
-   "Kafka",
+   "Kafka/RabbitMQ",
    "Redis",
    "Spring Boot"
   ]
@@ -6533,7 +6327,7 @@
   "blocker": "Skills",
   "skills": [
    "Java",
-   "MySQL",
+   "SQL",
    "Spring Boot"
   ]
  },
@@ -6578,9 +6372,9 @@
   "skills": [
    "JavaScript",
    "MongoDB",
-   "PostgreSQL",
    "REST APIs",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -6592,9 +6386,7 @@
   "expBand": "2–3 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "MERN"
-  ]
+  "skills": []
  },
  {
   "externalKey": "47025cb78277a83fd63e107e",
@@ -6606,9 +6398,9 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Django",
+   "Data/ML",
+   "Django/FastAPI/Flask",
    "Docker",
-   "Pandas",
    "Python",
    "SQL"
   ]
@@ -6624,13 +6416,12 @@
   "blocker": "None (applied)",
   "skills": [
    "Express",
-   "Git",
    "MongoDB",
-   "MySQL",
    "Next.js",
    "Node.js",
    "REST APIs",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -6680,9 +6471,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "d8ef6211e2aa583f2c189842",
@@ -6693,9 +6482,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "bb4c87b5fd583765404a945b",
@@ -6706,9 +6493,7 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "1b1788d539b10f4c96dc0e8c",
@@ -6719,9 +6504,7 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "371b72f338c490ac4e3fe225",
@@ -6732,7 +6515,9 @@
   "expBand": "5+ yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": []
+  "skills": [
+   "Angular"
+  ]
  },
  {
   "externalKey": "9c191f8e9df653a0c315ae5e",
@@ -6754,7 +6539,9 @@
   "expBand": "5+ yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": []
+  "skills": [
+   "Java"
+  ]
  },
  {
   "externalKey": "6df2631fdc79097c45f5c2da",
@@ -6777,7 +6564,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "--decision"
+   ".NET/C#"
   ]
  },
  {
@@ -6789,9 +6576,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "4074ad9d9adaacb499e30643",
@@ -6802,9 +6587,7 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "467639a15dcc89604502fd29",
@@ -6816,7 +6599,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "--decision"
+   "Java"
   ]
  },
  {
@@ -6829,7 +6612,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "--decision"
+   ".NET/C#"
   ]
  },
  {
@@ -6841,9 +6624,7 @@
   "expBand": "3–5 yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "a9fa6556b360b507c3dc5265",
@@ -6854,9 +6635,7 @@
   "expBand": "5+ yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "ac657d134192b53573519831",
@@ -6904,9 +6683,7 @@
   "expBand": "0–1 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "a4a9cb106b7dc88bf33d8779",
@@ -6918,7 +6695,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "--decision"
+   "Android/Kotlin"
   ]
  },
  {
@@ -6930,9 +6707,7 @@
   "expBand": "0–1 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "30f4297c53965be221e69eef",
@@ -6943,7 +6718,9 @@
   "expBand": "5+ yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": []
+  "skills": [
+   "Next.js"
+  ]
  },
  {
   "externalKey": "c64161c14fb72f50c4825579",
@@ -6954,9 +6731,7 @@
   "expBand": "0–1 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "bc339b98ed103f45a0a283c6",
@@ -6967,9 +6742,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "2213863f7c624cb651df4543",
@@ -6981,7 +6754,8 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "--decision"
+   "Next.js",
+   "React"
   ]
  },
  {
@@ -6994,7 +6768,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "--decision"
+   "SAP"
   ]
  },
  {
@@ -7007,7 +6781,8 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "--decision"
+   "Java",
+   "SAP"
   ]
  },
  {
@@ -7020,7 +6795,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "--decision"
+   "Node.js"
   ]
  },
  {
@@ -7032,9 +6807,7 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "c256769f6e9c5405b693050b",
@@ -7045,9 +6818,7 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "461b98b57ea0f8ee21a5b7fa",
@@ -7058,9 +6829,7 @@
   "expBand": "5+ yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "1247763491be616650e0123f",
@@ -7072,7 +6841,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "--decision"
+   "GenAI/LLM"
   ]
  },
  {
@@ -7085,7 +6854,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "--decision"
+   ".NET/C#"
   ]
  },
  {
@@ -7097,9 +6866,7 @@
   "expBand": "0–1 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "9168ca8bab33b5fbc02d7594",
@@ -7111,7 +6878,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "--decision"
+   "SAP"
   ]
  },
  {
@@ -7124,7 +6891,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "--decision"
+   "SAP"
   ]
  },
  {
@@ -7136,7 +6903,10 @@
   "expBand": "5+ yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": []
+  "skills": [
+   "Data/ML",
+   "SAP"
+  ]
  },
  {
   "externalKey": "cf54182b7d9e88eb5984fa49",
@@ -7193,8 +6963,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Django",
-   "FastAPI",
+   "Django/FastAPI/Flask",
    "Python",
    "React"
   ]
@@ -7224,9 +6993,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Bootstrap",
    "JavaScript",
-   "Material UI",
    "React",
    "TypeScript"
   ]
@@ -7241,7 +7008,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Express.js",
+   "Express",
    "JavaScript",
    "MongoDB",
    "Node.js",
@@ -7259,7 +7026,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Express.js",
+   "Express",
    "MongoDB",
    "Node.js",
    "React"
@@ -7275,15 +7042,13 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "FastAPI",
-   "LangChain",
+   "Django/FastAPI/Flask",
+   "GenAI/LLM",
    "Next.js",
    "Node.js",
    "Python",
-   "RAG",
    "React",
-   "TypeScript",
-   "Vector Databases"
+   "TypeScript"
   ]
  },
  {
@@ -7310,8 +7075,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Laravel",
-   "PHP",
+   "PHP/Laravel",
    "React"
   ]
  },
@@ -7325,7 +7089,6 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Git",
    "JavaScript",
    "Next.js",
    "REST APIs",
@@ -7344,13 +7107,12 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Express.js",
-   "Git",
+   "Express",
    "MongoDB",
    "Node.js",
-   "PostgreSQL",
    "REST APIs",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -7363,8 +7125,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Excel",
-   "Power BI",
    "SQL"
   ]
  },
@@ -7377,9 +7137,7 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "Web development"
-  ]
+  "skills": []
  },
  {
   "externalKey": "7cff88dcf53b0d568665df84",
@@ -7391,8 +7149,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   ".NET",
-   "C#",
+   ".NET/C#",
    "Python"
   ]
  },
@@ -7406,11 +7163,11 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Express.js",
+   "Express",
    "MongoDB",
-   "MySQL",
    "Node.js",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -7425,8 +7182,7 @@
   "skills": [
    "React",
    "Tailwind",
-   "TypeScript",
-   "Vite"
+   "TypeScript"
   ]
  },
  {
@@ -7438,7 +7194,9 @@
   "expBand": "3–5 yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": []
+  "skills": [
+   "Java"
+  ]
  },
  {
   "externalKey": "f2db46980fd8be7d09c117d0",
@@ -7489,7 +7247,9 @@
   "expBand": "5+ yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": []
+  "skills": [
+   "SAP"
+  ]
  },
  {
   "externalKey": "d14ba7eb03c51a0c02661302",
@@ -7501,7 +7261,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   "SAP Analytics Cloud"
+   "SAP"
   ]
  },
  {
@@ -7513,7 +7273,9 @@
   "expBand": "3–5 yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": []
+  "skills": [
+   "React"
+  ]
  },
  {
   "externalKey": "b2a8891a9ca0e58443ec6e16",
@@ -7525,7 +7287,7 @@
   "decision": "APPLIED",
   "blocker": "None (applied)",
   "skills": [
-   "Express.js",
+   "Express",
    "JavaScript",
    "MongoDB",
    "Node.js",
@@ -7544,7 +7306,6 @@
   "blocker": "Experience",
   "skills": [
    "MongoDB",
-   "NestJS",
    "Next.js",
    "Node.js",
    "React",
@@ -7578,7 +7339,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Express.js",
+   "Express",
    "MongoDB",
    "Node.js",
    "React"
@@ -7593,9 +7354,7 @@
   "expBand": "Not stated",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "ace156c1b490ef8fa91472e6",
@@ -7620,7 +7379,9 @@
   "expBand": "5+ yrs",
   "decision": "SKIPPED",
   "blocker": "Experience",
-  "skills": []
+  "skills": [
+   "React Native"
+  ]
  },
  {
   "externalKey": "69c37f5b354eb0dcdbb1c391",
@@ -7632,8 +7393,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Drupal",
-   "PHP"
+   "PHP/Laravel"
   ]
  },
  {
@@ -7646,7 +7406,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   ".NET",
+   ".NET/C#",
    "SQL"
   ]
  },
@@ -7660,7 +7420,7 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Django",
+   "Django/FastAPI/Flask",
    "Node.js",
    "Python",
    "React"
@@ -7700,9 +7460,7 @@
   "expBand": "0–1 yrs",
   "decision": "SKIPPED",
   "blocker": "Skills",
-  "skills": [
-   "--decision"
-  ]
+  "skills": []
  },
  {
   "externalKey": "96e400ebfc5d9919115404dd",
@@ -7713,7 +7471,9 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Other",
-  "skills": []
+  "skills": [
+   "Node.js"
+  ]
  },
  {
   "externalKey": "2201ba540d685e9d129d3b90",
@@ -7728,10 +7488,10 @@
    "Express",
    "JavaScript",
    "MongoDB",
-   "MySQL",
    "Node.js",
    "REST APIs",
-   "React"
+   "React",
+   "SQL"
   ]
  },
  {
@@ -7760,7 +7520,7 @@
   "blocker": "Skills",
   "skills": [
    "AWS",
-   "FastAPI",
+   "Django/FastAPI/Flask",
    "Node.js",
    "Python",
    "React"
@@ -7776,8 +7536,7 @@
   "decision": "SKIPPED",
   "blocker": "Experience",
   "skills": [
-   ".NET",
-   "C#"
+   ".NET/C#"
   ]
  },
  {
@@ -7820,7 +7579,6 @@
   "decision": "SKIPPED",
   "blocker": "Skills",
   "skills": [
-   "Nuxt.js",
    "React"
   ]
  },
@@ -7866,7 +7624,9 @@
   "expBand": "1–2 yrs",
   "decision": "SKIPPED",
   "blocker": "Other",
-  "skills": []
+  "skills": [
+   "Node.js"
+  ]
  },
  {
   "externalKey": "276e033e2cdda6f3f3553ae5",
