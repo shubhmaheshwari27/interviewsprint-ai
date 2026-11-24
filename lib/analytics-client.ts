@@ -18,7 +18,10 @@ async function callService<T>(path: string, body: unknown, isValid: (x: any) => 
   try {
     const res = await fetch(`${base}${path}`, {
       method: "POST",
-      headers: { "content-type": "application/json" },
+      headers: {
+        "content-type": "application/json",
+        ...(process.env.ANALYTICS_SERVICE_TOKEN ? { "x-service-token": process.env.ANALYTICS_SERVICE_TOKEN } : {}),
+      },
       body: JSON.stringify(body),
       signal: AbortSignal.timeout(TIMEOUT_MS),
       cache: "no-store",
