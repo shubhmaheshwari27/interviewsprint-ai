@@ -22,6 +22,14 @@ screened. Recruiter names, emails, phone numbers and notes are removed; company 
 Those findings changed how I searched: more direct emails and referrals, fewer portal applications, and a
 Spring Boot service in this project to close the second-biggest gap.
 
+## Screenshots
+
+| Job-hunt analytics | Market gap |
+|---|---|
+| ![Analytics](docs/screenshots/analytics.jpg) | ![Market gap](docs/screenshots/market.jpg) |
+
+![AI interview prep with the offline fallback](docs/screenshots/ai-prep.jpg)
+
 ## Features
 
 - **Applications & interview rounds** – full CRUD with status tracking, filters and interview-round timeline.
