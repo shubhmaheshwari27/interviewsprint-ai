@@ -15,7 +15,8 @@ export default async function AnalyticsPage() {
   if (!user) redirect("/login")
 
   const rows = await prisma.application.findMany({
-    where: { userId: user.id },
+    // Saved (wishlist) jobs are not applications yet.
+    where: { userId: user.id, status: { not: "SAVED" } },
     select: { applicationDate: true, status: true, portal: true, channel: true },
     orderBy: { applicationDate: "asc" },
   })

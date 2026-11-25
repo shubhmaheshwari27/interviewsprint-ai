@@ -91,12 +91,18 @@ export function AIAnalysisSection({ applicationId, initialAnalysis }: AIAnalysis
         <div className="flex items-center gap-2">
           <Sparkles className="h-5 w-5 text-primary" />
           <h2 className="text-xl font-bold">AI Preparation Guide</h2>
-          {analysis.source === "RULES" && (
+          {analysis.source === "RULES" ? (
             <Badge
               variant="outline"
-              title="The AI service was unavailable, so this was generated from the job description and your profile skills."
+              title="No AI provider answered, so this was generated from the job description and your profile skills."
             >
               Offline analysis
+            </Badge>
+          ) : (
+            <Badge variant="outline" title="Which AI produced this analysis">
+              {({ GOOGLE: "Gemini", OPENAI: "OpenAI", ANTHROPIC: "Claude", AI: "Built-in AI" } as Record<string, string>)[analysis.source] ?? "AI"}
+              {analysis.model ? ` · ${analysis.model}` : ""}
+              {analysis.tokensUsed ? ` · ${analysis.tokensUsed.toLocaleString()} tokens` : ""}
             </Badge>
           )}
         </div>

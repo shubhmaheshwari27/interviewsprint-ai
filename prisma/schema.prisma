@@ -25,6 +25,8 @@ model User {
   sessions      Session[]
   applications  Application[]
   marketSignals MarketSignal[]
+  aiKeys        AIProviderKey[]
+  apiTokens     ApiToken[]
 
   @@map("users")
 }
@@ -72,6 +74,7 @@ model VerificationToken {
 // ─── Application Domain Models ─────────────────────────────────────────────
 
 enum ApplicationStatus {
+  SAVED     // wishlist: saved (e.g. from the browser extension), not applied yet
   APPLIED
   SCREENING
   INTERVIEWING
@@ -116,6 +119,8 @@ model Application {
   salaryRange     String?           @db.VarChar(50)
   interviewStage  String?           @db.VarChar(200)
   portal          String?           @db.VarChar(50)
+  jobUrl          String?           @db.VarChar(500)
+  location        String?           @db.VarChar(150)
   channel         ApplicationChannel @default(PORTAL)
   source          String            @default("MANUAL") @db.VarChar(20) // MANUAL | IMPORT
   externalKey     String?           @db.VarChar(200) // stable id from an import, makes re-imports idempotent
@@ -158,7 +163,9 @@ model AIAnalysis {
   skillGaps           Json     // Array of { skill: string, importance: string, reason: string }
   resumeTips          Json     // Array of strings
   preparationRoadmap  Json     // Array of { week: number, focus: string, resources: string[] }
-  source              String   @default("AI") @db.VarChar(20) // AI | RULES (offline fallback when the AI provider is unavailable)
+  source              String   @default("AI") @db.VarChar(20) // GOOGLE | OPENAI | ANTHROPIC | AI (server key) | RULES (offline fallback)
+  model               String?  @db.VarChar(80)
+  tokensUsed          Int?
   generatedAt         DateTime @default(now())
   updatedAt           DateTime @updatedAt
 
@@ -191,4 +198,51 @@ model MarketSignal {
   @@unique([userId, externalKey])
   @@index([userId, date])
   @@map("market_signals")
+}
+
+// ─── Bring-your-own AI keys ────────────────────────────────────────────────
+// Users add their own Gemini / OpenAI / Anthropic key. Keys are encrypted with
+// AES-256-GCM (lib/crypto.ts) and never sent back to the browser.
+
+enum AIProvider {
+  GOOGLE
+  OPENAI
+  ANTHROPIC
+}
+
+model AIProviderKey {
+  id           String     @id @default(cuid())
+  userId       String
+  provider     AIProvider
+  encryptedKey String     @db.Text
+  keyHint      String     @db.VarChar(16) // e.g. "…a3F9", safe to show
+  model        String     @db.VarChar(80)
+  priority     Int        @default(0) // lower runs first
+  lastStatus   String?    @db.VarChar(120)
+  lastTestedAt DateTime?
+  createdAt    DateTime   @default(now())
+  updatedAt    DateTime   @updatedAt
+
+  user         User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, provider])
+  @@map("ai_provider_keys")
+}
+
+// ─── Personal access tokens (browser extension) ────────────────────────────
+
+model ApiToken {
+  id         String    @id @default(cuid())
+  userId     String
+  name       String    @db.VarChar(60)
+  tokenHash  String    @unique @db.VarChar(64) // sha256 of the token; the token itself is shown once
+  prefix     String    @db.VarChar(16)        // first characters, to recognise it in the list
+  lastUsedAt DateTime?
+  revokedAt  DateTime?
+  createdAt  DateTime  @default(now())
+
+  user       User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@map("api_tokens")
 }

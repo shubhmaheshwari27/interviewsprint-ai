@@ -1,0 +1,30 @@
+:root { color-scheme: light dark; --fg: #0f172a; --muted: #64748b; --bg: #fff; --line: #e2e8f0; --primary: #0f172a; --primary-fg: #fff; --ok: #059669; --warn: #b45309; }
+@media (prefers-color-scheme: dark) { :root { --fg: #e2e8f0; --muted: #94a3b8; --bg: #0b1120; --line: #1e293b; --primary: #e2e8f0; --primary-fg: #0b1120; } }
+* { box-sizing: border-box; }
+body { width: 380px; margin: 0; padding: 14px; font: 13px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--fg); background: var(--bg); }
+header { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
+h1 { font-size: 15px; margin: 0; flex: 1; }
+label { display: block; margin: 8px 0 0; font-weight: 600; font-size: 12px; }
+input, textarea { width: 100%; margin-top: 3px; padding: 7px 8px; border: 1px solid var(--line); border-radius: 8px; background: transparent; color: inherit; font: inherit; font-weight: 400; }
+textarea { resize: vertical; }
+.row { display: flex; gap: 8px; margin-top: 10px; }
+.row > * { flex: 1; }
+.row label { margin-top: 0; }
+button { cursor: pointer; border-radius: 8px; padding: 8px 10px; font: inherit; font-weight: 600; border: 1px solid var(--line); }
+button:disabled { opacity: .6; cursor: default; }
+.primary { background: var(--primary); color: var(--primary-fg); border-color: var(--primary); }
+.secondary { background: transparent; color: inherit; }
+.link { background: none; border: none; color: var(--muted); padding: 0; font-weight: 500; }
+.muted { color: var(--muted); }
+.small { font-size: 11px; }
+.check { display: flex; align-items: center; gap: 6px; font-weight: 500; }
+.check input { width: auto; margin: 0; }
+details { margin-top: 10px; }
+summary { cursor: pointer; font-weight: 600; font-size: 12px; }
+.fit { border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; margin-top: 6px; }
+.fit b { font-size: 18px; }
+.chip { display: inline-block; padding: 1px 7px; margin: 2px 3px 0 0; border-radius: 999px; border: 1px solid var(--line); font-size: 11px; }
+.chip.have { border-color: var(--ok); color: var(--ok); }
+.chip.miss { border-color: var(--warn); color: var(--warn); }
+.notice { margin-top: 8px; padding: 6px 8px; border-radius: 8px; background: rgba(5,150,105,.1); color: var(--ok); }
+a { color: inherit; }
