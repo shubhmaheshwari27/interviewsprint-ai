@@ -38,6 +38,12 @@ Spring Boot service in this project to close the second-biggest gap.
 - **Market gap** – which skills the screened jobs ask for (highlighting the ones you have), why jobs were
   skipped, experience asked for, and the missing skills that would unlock the most jobs.
 - **AI interview prep** – per job description: likely questions, skill gaps, resume tips and a prep roadmap.
+- **Bring your own AI key** – users pick **Google Gemini** (free tier), **OpenAI** or **Anthropic Claude**, paste
+  their own key (tested before saving, encrypted with AES-256-GCM, never sent back to the browser) and set a
+  fallback order. Each analysis shows which provider and model produced it and how many tokens it used.
+- **Chrome extension** – one click on any job posting (LinkedIn, Naukri, Instahyre, Wellfound, Indeed, Cutshort,
+  company sites with schema.org data) saves it to your account, shows your skill match and missing skills, and can
+  generate AI prep straight away. See [extension/README.md](extension/README.md).
 - **CSV import** – bring in applications and screened jobs from any tracker; re-imports are idempotent.
 - **Read-only demo account** – every write action is blocked for it on the server.
 
@@ -45,11 +51,11 @@ Spring Boot service in this project to close the second-biggest gap.
 
 Two parts of the system are optional, and neither can take the app down:
 
-- **AI provider (OpenAI).** The client is created lazily (a missing key no longer crashes at import), calls have
-  a 20 s timeout and one retry, and the response is validated with Zod. If the AI is unconfigured, slow, failing or
-  returns unusable JSON, the app generates an **offline analysis** from the job description and the user's skills,
-  and labels it as such. After a failure, a 60-second circuit breaker skips the AI so users don't each wait for
-  another timeout.
+- **AI providers.** Analysis runs through a fallback chain: the user's own providers in their chosen order
+  (Gemini / OpenAI / Claude, each through its official SDK with a timeout, one retry and Zod-validated output), then
+  the site's own key if configured, then an **offline analysis** built from the job description and the user's
+  skills, labelled as such. A provider that just failed is skipped for 60 seconds per user, so nobody waits for the
+  same timeout twice. A missing or broken key can never crash a page.
 - **Java analytics service.** When `ANALYTICS_SERVICE_URL` is set, the Analytics and Market Gap pages ask the
   Spring Boot service for their summaries with a 2-second timeout and validate the reply. On any failure the same
   summary is computed in the app. The page shows which engine answered.
@@ -61,7 +67,8 @@ flowchart LR
   B[Browser] --> N["Next.js 16 app<br/>Server Components + Server Actions"]
   N --> DB[(PostgreSQL<br/>Prisma)]
   N -. optional, 2 s timeout .-> J["analytics-service<br/>Spring Boot 3 / Java 17"]
-  N -. optional, 20 s timeout .-> O[OpenAI API]
+  N -. user's key, in user's order .-> O["Gemini / OpenAI / Claude"]
+  X["Chrome extension"] -- "token auth, POST /api/extension/jobs" --> N
   J -. on failure .-> F1[built-in TS analytics]
   O -. on failure .-> F2[offline rule-based analysis]
   T["Daily job-hunt automation<br/>(tracker CSV)"] -- CSV import / demo seed --> N
@@ -75,9 +82,10 @@ flowchart LR
 | UI | Tailwind CSS v4, shadcn/ui, Recharts |
 | Data | PostgreSQL, Prisma ORM (migrations applied on deploy) |
 | Auth | Auth.js v5: Google OAuth and email/password |
-| AI | OpenAI API with Zod validation and an offline fallback |
+| AI | Bring-your-own-key Gemini (@google/genai), OpenAI (openai), Claude (@anthropic-ai/sdk structured outputs); Zod validation; offline fallback |
 | Analytics service | Java 17, Spring Boot 3, Bean Validation, Actuator, JUnit 5, Docker |
-| Quality | Vitest (web), JUnit + MockMvc (service), GitHub Actions CI |
+| Browser extension | Chrome Manifest V3 (activeTab + scripting), personal access tokens |
+| Quality | Vitest + jsdom (web, extension extractor), JUnit + MockMvc (service), GitHub Actions CI |
 | Hosting | Vercel |
 
 ## Project structure

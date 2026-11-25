@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>InterviewSprint</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <header>
+      <img src="icons/icon48.png" alt="" width="24" height="24" />
+      <h1>InterviewSprint</h1>
+      <button id="open-settings" class="link" title="Settings">Settings</button>
+    </header>
+
+    <!-- First run / settings -->
+    <section id="setup" hidden>
+      <p class="muted">Paste a token from <b>Settings → Browser extension</b> in your InterviewSprint account.</p>
+      <label>Token <input id="token" type="password" autocomplete="off" placeholder="isp_…" /></label>
+      <label>App URL <input id="base-url" type="url" placeholder="https://interviewsprint-ai.vercel.app" /></label>
+      <div class="row">
+        <button id="save-token" class="primary">Connect</button>
+        <button id="disconnect" class="secondary">Disconnect</button>
+      </div>
+      <p id="setup-status" class="muted"></p>
+    </section>
+
+    <!-- Job form -->
+    <section id="job" hidden>
+      <p id="who" class="muted"></p>
+      <div id="fit" class="fit" hidden></div>
+      <div id="already" class="notice" hidden></div>
+      <label>Role <input id="f-title" maxlength="100" /></label>
+      <label>Company <input id="f-company" maxlength="100" /></label>
+      <div class="row">
+        <label>Location <input id="f-location" maxlength="150" /></label>
+        <label>Salary <input id="f-salary" maxlength="50" /></label>
+      </div>
+      <details>
+        <summary>Job description <span id="desc-len" class="muted"></span></summary>
+        <textarea id="f-description" rows="8" maxlength="10000"></textarea>
+        <p class="muted small">Tip: if this looks wrong, select the description text on the page and reopen the extension.</p>
+      </details>
+      <label class="check"><input id="f-analyze" type="checkbox" checked /> Generate AI interview prep</label>
+      <div class="row">
+        <button id="save-saved" class="secondary">Save for later</button>
+        <button id="save-applied" class="primary">Save as applied</button>
+      </div>
+      <p id="result" class="muted"></p>
+    </section>
+
+    <section id="message" hidden><p id="message-text" class="muted"></p></section>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
