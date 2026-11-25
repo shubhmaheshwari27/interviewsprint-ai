@@ -1,7 +1,7 @@
 import { z } from "zod"
 
 export const ApplicationStatusEnum = z.enum([
-  "APPLIED", "SCREENING", "INTERVIEWING", "OFFER", "REJECTED", "WITHDRAWN",
+  "SAVED", "APPLIED", "SCREENING", "INTERVIEWING", "OFFER", "REJECTED", "WITHDRAWN",
 ])
 
 export const CreateApplicationSchema = z.object({

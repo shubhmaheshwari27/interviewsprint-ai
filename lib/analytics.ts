@@ -6,7 +6,7 @@
 
 export type AnalyticsInput = {
   applicationDate: string // ISO date
-  status: "APPLIED" | "SCREENING" | "INTERVIEWING" | "OFFER" | "REJECTED" | "WITHDRAWN"
+  status: "SAVED" | "APPLIED" | "SCREENING" | "INTERVIEWING" | "OFFER" | "REJECTED" | "WITHDRAWN"
   portal: string | null
   channel: "PORTAL" | "EMAIL" | "REFERRAL" | "OTHER"
 }
@@ -30,11 +30,13 @@ export type AnalyticsSummary = {
 }
 
 /** A response is anything past "Applied" (a rejection is still an answer). Withdrawn is not. */
-export const isResponse = (s: AnalyticsInput["status"]) => s !== "APPLIED" && s !== "WITHDRAWN"
+export const isResponse = (s: AnalyticsInput["status"]) => s !== "APPLIED" && s !== "WITHDRAWN" && s !== "SAVED"
 const reachedInterview = (s: AnalyticsInput["status"]) => s === "INTERVIEWING" || s === "OFFER"
 const pct = (part: number, whole: number) => (whole === 0 ? 0 : Math.round((part / whole) * 1000) / 10)
 
-export function computeAnalytics(apps: AnalyticsInput[]): AnalyticsSummary {
+export function computeAnalytics(input: AnalyticsInput[]): AnalyticsSummary {
+  // Saved (wishlist) jobs are not applications yet.
+  const apps = input.filter((a) => a.status !== "SAVED")
   const total = apps.length
   const responses = apps.filter((a) => isResponse(a.status)).length
   const interviews = apps.filter((a) => reachedInterview(a.status)).length

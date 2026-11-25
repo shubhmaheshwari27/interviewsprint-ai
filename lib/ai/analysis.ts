@@ -25,6 +25,18 @@ export const AnalysisSchema = z.object({
 
 export type Analysis = z.infer<typeof AnalysisSchema>
 
+/**
+ * The same shape without coercion/catch/defaults, so it converts cleanly to a
+ * JSON Schema for providers that support structured outputs (Claude). Their
+ * answer is still validated with AnalysisSchema afterwards.
+ */
+export const AnalysisJsonShape = z.object({
+  interviewQuestions: z.array(z.object({ category: z.string(), question: z.string() })),
+  skillGaps: z.array(z.object({ skill: z.string(), importance: z.enum(["High", "Medium", "Low"]), reason: z.string() })),
+  resumeTips: z.array(z.string()),
+  preparationRoadmap: z.array(z.object({ week: z.number().int(), focus: z.string(), resources: z.array(z.string()) })),
+})
+
 /** Parse and validate an AI response. Throws if it is not usable. */
 export function parseAIResponse(text: string | null | undefined): Analysis {
   if (!text) throw new Error("Empty AI response")

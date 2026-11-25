@@ -16,6 +16,7 @@ export const statusConfig: Record<
   ApplicationStatus,
   { label: string; color: string; bgColor: string }
 > = {
+  SAVED:        { label: "Saved",        color: "text-slate-700",  bgColor: "bg-slate-100"  },
   APPLIED:      { label: "Applied",      color: "text-blue-700",   bgColor: "bg-blue-100"   },
   SCREENING:    { label: "Screening",    color: "text-purple-700", bgColor: "bg-purple-100" },
   INTERVIEWING: { label: "Interviewing", color: "text-yellow-700", bgColor: "bg-yellow-100" },

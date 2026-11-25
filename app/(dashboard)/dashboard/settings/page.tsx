@@ -1,16 +1,34 @@
 import { redirect } from "next/navigation"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { ModeToggle } from "@/components/mode-toggle"
-import { Bell, Palette, Sparkles, Upload, Wrench } from "lucide-react"
+import { Bell, Bot, Chrome, Palette, Sparkles, Upload, Wrench } from "lucide-react"
 import { Switch } from "@/components/ui/switch"
 import { Label } from "@/components/ui/label"
+import { prisma } from "@/lib/prisma"
 import { getSessionUser, DEMO_READ_ONLY_MESSAGE } from "@/lib/session-user"
+import { PROVIDERS, PROVIDER_IDS } from "@/lib/ai/providers"
 import { ImportData } from "@/components/settings/ImportData"
 import { SkillsForm } from "@/components/settings/SkillsForm"
+import { AIProviders } from "@/components/settings/AIProviders"
+import { ExtensionTokens } from "@/components/settings/ExtensionTokens"
 
 export default async function SettingsPage() {
   const user = await getSessionUser()
   if (!user) redirect("/login")
+
+  const [keys, tokens] = await Promise.all([
+    prisma.aIProviderKey.findMany({
+      where: { userId: user.id },
+      orderBy: { priority: "asc" },
+      select: { id: true, provider: true, keyHint: true, model: true, lastStatus: true, lastTestedAt: true },
+    }),
+    prisma.apiToken.findMany({
+      where: { userId: user.id, revokedAt: null },
+      orderBy: { createdAt: "desc" },
+      select: { id: true, name: true, prefix: true, createdAt: true, lastUsedAt: true },
+    }),
+  ])
+  const providers = PROVIDER_IDS.map((id) => ({ id, ...PROVIDERS[id] }))
 
   return (
     <div className="space-y-10">
@@ -47,6 +65,45 @@ export default async function SettingsPage() {
           </CardHeader>
           <CardContent>
             <ImportData />
+          </CardContent>
+        </Card>
+
+        <Card className="border-slate-200 dark:border-slate-800" id="ai-providers">
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2">
+              <Bot className="h-5 w-5 text-primary" /> AI provider (bring your own key)
+            </CardTitle>
+            <CardDescription>
+              {user.isDemo
+                ? DEMO_READ_ONLY_MESSAGE
+                : "Use your own Gemini, OpenAI or Claude key for AI interview prep. Gemini has a free tier."}
+            </CardDescription>
+          </CardHeader>
+          <CardContent>
+            <AIProviders
+              providers={providers}
+              disabled={user.isDemo}
+              keys={keys.map((k) => ({ ...k, lastTestedAt: k.lastTestedAt?.toISOString() ?? null }))}
+            />
+          </CardContent>
+        </Card>
+
+        <Card className="border-slate-200 dark:border-slate-800" id="extension">
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2">
+              <Chrome className="h-5 w-5 text-primary" /> Browser extension
+            </CardTitle>
+            <CardDescription>
+              {user.isDemo
+                ? DEMO_READ_ONLY_MESSAGE
+                : "Save any job you are viewing (LinkedIn, Naukri, Instahyre, Wellfound, Indeed, company sites) with one click."}
+            </CardDescription>
+          </CardHeader>
+          <CardContent>
+            <ExtensionTokens
+              disabled={user.isDemo}
+              tokens={tokens.map((t) => ({ ...t, createdAt: t.createdAt.toISOString(), lastUsedAt: t.lastUsedAt?.toISOString() ?? null }))}
+            />
           </CardContent>
         </Card>
         <Card className="border-slate-200 dark:border-slate-800">

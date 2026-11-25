@@ -23,7 +23,9 @@ public class AnalyticsService {
         return whole == 0 ? 0 : Math.round(part * 1000.0 / whole) / 10.0;
     }
 
-    public AnalyticsSummary summarize(List<ApplicationInput> apps) {
+    public AnalyticsSummary summarize(List<ApplicationInput> input) {
+        // Saved (wishlist) jobs are not applications yet.
+        List<ApplicationInput> apps = input.stream().filter(a -> !"SAVED".equals(a.status())).toList();
         int total = apps.size();
         int responses = 0, interviews = 0, offers = 0;
         Map<String, int[]> portals = new HashMap<>();   // portal -> [applications, responses]
