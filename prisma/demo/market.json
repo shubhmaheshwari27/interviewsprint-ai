@@ -1,0 +1,7702 @@
+[
+ {
+  "externalKey": "1f77666b9944f5e441b24d0f",
+  "date": "2026-11-18",
+  "portal": "LinkedIn",
+  "company": "Healthify",
+  "roleTitle": "Full Stack Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Next.js",
+   "Python",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "294fa990af5fc01bce814f73",
+  "date": "2026-11-18",
+  "portal": "LinkedIn",
+  "company": "Astranova Mobility",
+  "roleTitle": "Full Stack Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Kubernetes",
+   "MongoDB",
+   "Python",
+   "React",
+   "Redux",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "9dd59a07c1ad7735c7cd8ae1",
+  "date": "2026-11-18",
+  "portal": "LinkedIn",
+  "company": "VisCommerce",
+  "roleTitle": "Software Engineer - 3D Web Applications",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "c804c8248275639b260269dd",
+  "date": "2026-11-18",
+  "portal": "LinkedIn",
+  "company": "SkillsNCR",
+  "roleTitle": "Junior Full-Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript"
+  ]
+ },
+ {
+  "externalKey": "ca149d103b28ff4e25a8634a",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Arise TechGlobal",
+  "roleTitle": "Junior Software Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript"
+  ]
+ },
+ {
+  "externalKey": "1411a3b6dff6dad88c02200f",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Sathya Educare Competency Trust",
+  "roleTitle": "Software Engineer (Full-Stack Development & IT Support)",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Go",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "9916d3121e90083823d27edb",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Foodhub",
+  "roleTitle": "Software Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "GraphQL",
+   "MongoDB",
+   "Node.js",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "6074654a6e75d3f9250e717a",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Recro",
+  "roleTitle": "Full Stack Engineer (React + Node)",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "40f1a35e2b5a02a1b7512373",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Umanist NA",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   ".NET/C#",
+   "Angular"
+  ]
+ },
+ {
+  "externalKey": "6de1a6fd0f9b627107c922cd",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "The Hosteller",
+  "roleTitle": "Full Stack Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Next.js",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "beb5d507ce37a4e63c14cc6e",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "iThink Digital",
+  "roleTitle": "Junior Backend Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "f3e6318fb97b91fd263d43b1",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "turtil",
+  "roleTitle": "Full Stack Engineer(Entry-Level)",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "9b2e2fe065584331d04a8c3a",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Adroit India",
+  "roleTitle": "Full Stack Software Engineer (3-5 Years)",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "2ef501f4b98faf9f4ee87d0a",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Ariqt Global",
+  "roleTitle": "Full Stack Engineer (.NET | AI/ML)",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   ".NET/C#"
+  ]
+ },
+ {
+  "externalKey": "3c6862121e317225f6ca6759",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Randstad Enterprise",
+  "roleTitle": "Senior Full Stack Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "255b8c0bc1aea181f34b39ab",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Deservely Technologies",
+  "roleTitle": "Mern Stack Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "19daf340804eaf8d350a51c6",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Jobgether",
+  "roleTitle": "Full-Stack Engineer (Node.js + React/Next.js)",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Next.js",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "4ca788b5cbfb8a3841464195",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Recro",
+  "roleTitle": "Full Stack Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "16294f29cfecf382373296ae",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "The NineHertz",
+  "roleTitle": "Lead - MERN Stack Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "c1054fbd099746a3a4bdbef4",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Enterprise Bot",
+  "roleTitle": "Senior Node.js Backend Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "437555136cd5f9951c537eae",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Innovapptive Inc",
+  "roleTitle": "SDE II",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "259f33e9e20d5955f82ec57d",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Endava",
+  "roleTitle": "Full Stack Developer -Angular, .NET and AWS",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   ".NET/C#",
+   "AWS",
+   "Angular"
+  ]
+ },
+ {
+  "externalKey": "0a4be9a08d8a0f149742843c",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Typeface",
+  "roleTitle": "Senior Software Engineer - Full Stack",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "7175ff2d1fabb66b371e1c55",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Codal",
+  "roleTitle": "Tech Lead - Full Stack",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "c923e326c6aa1570c7fa7a31",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Appinventiv",
+  "roleTitle": "Software Engineer",
+  "expBand": "Not stated",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "12e21744866555deefbf174a",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Venxr",
+  "roleTitle": "Jr. Product Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "d6df99f2c978bd1410771dad",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Quantum Integrators",
+  "roleTitle": "Trainee Software Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "71595f72b1eb90d1f9845d87",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Scoutit",
+  "roleTitle": "Software Engineer",
+  "expBand": "Not stated",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Java",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "a9febdb73455362a6541a90b",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Appinventiv",
+  "roleTitle": "Software Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "d54322fa9ae7b11c73e1e764",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Quick Dry Cleaning Software",
+  "roleTitle": "Software Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   ".NET/C#",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "740badf4e534f8cfe2b3153b",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Srest Information Technology",
+  "roleTitle": "Frontend Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "React"
+  ]
+ },
+ {
+  "externalKey": "33b1769cf73b3edf7476d703",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Shriram General Insurance",
+  "roleTitle": "Software Engineer",
+  "expBand": "Not stated",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "f7483faeff245b3c26038cb2",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Canonical",
+  "roleTitle": "Graduate Software Engineer Open Source and Linux",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "aeac39f422f93ca4ed7b8ad0",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Onit India",
+  "roleTitle": "Software Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "743dcbf5f354a99959f6c838",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Fluidra Technologies",
+  "roleTitle": "Software Engineer (Cloud IoT)",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "AWS",
+   "Node.js",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "c98a4ac8325d02f6a7ddeeef",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Endava",
+  "roleTitle": "Full Stack Java Developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Java",
+   "React",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "db7fe3942c3401d344260608",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Recro",
+  "roleTitle": "Full Stack Engineer",
+  "expBand": "Not stated",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Go",
+   "Next.js",
+   "SQL",
+   "Tailwind",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "49043fa4adc1ac8dda627b8d",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Venxr",
+  "roleTitle": "Jr. Product Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "1a9a9de0a8939142e974ec85",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "The NineHertz",
+  "roleTitle": "AI-Native Full-Stack Software Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Django/FastAPI/Flask",
+   "Next.js",
+   "Python",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "c02d3e598a71bbad95007430",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Phigital Care",
+  "roleTitle": "Full stack Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Next.js",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "642f7ce55274be2e07e96282",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Wadhwani AI Global",
+  "roleTitle": "Associate Full Stack Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "6b1804d343d3b2c8fb5df628",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Data Eminence",
+  "roleTitle": "React Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "fca5046b4141611a66e55fe8",
+  "date": "2026-11-18",
+  "portal": "Naukri",
+  "company": "Techpulse It Services",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java",
+   "REST APIs",
+   "React",
+   "SQL",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "e113cef887f7f6e34cc66f2a",
+  "date": "2026-11-18",
+  "portal": "Naukri",
+  "company": "Brains N Skills",
+  "roleTitle": "Java Full Stack Developer with React.Js",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Java",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "721dabdeb36ee0e9c0e566a5",
+  "date": "2026-11-18",
+  "portal": "Naukri",
+  "company": "Aaron Software Solutions",
+  "roleTitle": "Product manager and Full stack developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Django/FastAPI/Flask",
+   "Python",
+   "React",
+   "React Native"
+  ]
+ },
+ {
+  "externalKey": "60e717982df227d44226f8e8",
+  "date": "2026-11-18",
+  "portal": "Naukri",
+  "company": "Soterius Life Sciences",
+  "roleTitle": "Developer (Junior Full Stack)",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "JavaScript",
+   "REST APIs",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "0e8423afed4a9211fa1ddd75",
+  "date": "2026-11-18",
+  "portal": "Naukri",
+  "company": "Verdantis",
+  "roleTitle": "AI/Node.js Backend Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "GenAI/LLM",
+   "Microservices",
+   "MongoDB",
+   "Node.js",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "75eb80bcf129cf6105931b65",
+  "date": "2026-11-18",
+  "portal": "Naukri",
+  "company": "Shashwath Solution",
+  "roleTitle": "Full stack developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "MongoDB",
+   "Node.js",
+   "React",
+   "React Native"
+  ]
+ },
+ {
+  "externalKey": "14b4950197f00d6d4826430a",
+  "date": "2026-11-18",
+  "portal": "Naukri",
+  "company": "Shashwath Solution",
+  "roleTitle": "Web Developer (React & Next js)",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Next.js",
+   "React",
+   "Tailwind",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "fde0079527d4e1958cbfb7ae",
+  "date": "2026-11-18",
+  "portal": "Naukri",
+  "company": "Ratnam Solutions",
+  "roleTitle": "React js Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "fb1f3d0a633d9f62a36d6eca",
+  "date": "2026-11-18",
+  "portal": "Naukri",
+  "company": "Accenture",
+  "roleTitle": "Software Development Engineer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Java",
+   "Microservices",
+   "REST APIs",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "8ce99f870d953b1f56b6a91f",
+  "date": "2026-11-18",
+  "portal": "Naukri",
+  "company": "WebSenor",
+  "roleTitle": "ReactJS Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "JavaScript",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "751e69f1e72f69e94cb35de2",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Pavan Enterprises Network",
+  "roleTitle": "Full stack Developer(Node JS /React JS)",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "MongoDB",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "40bb01666cc9639d727c380a",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Suretek Infosoft",
+  "roleTitle": "Full Stack Developer Intern",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "Node.js",
+   "REST APIs",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "d6292434332ff0b427883b65",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Wakencode Technologies",
+  "roleTitle": "Senior Full Stack Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "AWS",
+   "CI/CD",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "9fbd6bdab1fb99b7fc103fda",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Akra Tech",
+  "roleTitle": "Claude Code Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Azure"
+  ]
+ },
+ {
+  "externalKey": "3501d5faa8d4184d6a7e7096",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "AdEngage",
+  "roleTitle": "MERN Stack Developer (Intern)",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "f2608975253a229bd3572257",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "R S Diamonds",
+  "roleTitle": "Software Engineer Trainee",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java",
+   "Node.js",
+   "Python",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "e39cef181c20ccd7643838b3",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Techbit",
+  "roleTitle": "React Professional",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "121691b5a39c4853e8949d22",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Gepl Capital",
+  "roleTitle": "Mern Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "3f8b1115785bd9187a953ff2",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Luminoguru",
+  "roleTitle": "Node.js Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "e3bd36bfe80ad3a3853d442e",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Optshift Ai",
+  "roleTitle": "Software Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "ccf2953cdb3b2a4acd9195ec",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Swopshop",
+  "roleTitle": "Fullstack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "Express",
+   "Next.js",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "654b4d099472f7e861f69af6",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "BMW Techworks India",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Angular",
+   "Django/FastAPI/Flask",
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "76350ba49bd5a8695f224757",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "KG Information Systems",
+  "roleTitle": "Junior Associate",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   ".NET/C#",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "05139499fd2ed66a595efd50",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Infinite",
+  "roleTitle": "Software Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Docker",
+   "Kubernetes"
+  ]
+ },
+ {
+  "externalKey": "989802c19e4504009f1fed29",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Comviva",
+  "roleTitle": "Backend Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "32dd037722fe893f8c8610c9",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Infor",
+  "roleTitle": "Software Engineer, Associate (Java)",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Java",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "bb992699d3e08f90fd7a7852",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Syntrex Technology",
+  "roleTitle": "Software Engineer & Developer Programmer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Java",
+   "MongoDB",
+   "Python",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "72e931367a47b49acb795ff9",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Talentzo Delhi",
+  "roleTitle": "Frontend Engineer at A FinTech Company",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "94bc535f8b027b0daf26e1a1",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Bajaj Finance",
+  "roleTitle": "Trainee Technology",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "9291d58798ed991d511ecec7",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Creative Hands HR",
+  "roleTitle": "Software-Java Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Docker",
+   "Java",
+   "Microservices",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "26ad3b0b2887c8b763e4697c",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Interface Infosys",
+  "roleTitle": "Software Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "C++",
+   "HTML/CSS",
+   "Java",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "2d94f36aa32a4b8a541aec1d",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Accenture",
+  "roleTitle": "Web Developer New Associate",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "HTML/CSS"
+  ]
+ },
+ {
+  "externalKey": "51b049d3c2a892b5a75b4855",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Tech Mahindra",
+  "roleTitle": "Customer Support Associate",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "4244fabb21aaeb85bb4795ef",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Nuvama Wealth And Investment",
+  "roleTitle": "AI-First Software Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "8a258576d19f358eeb290e8d",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Ignitefortune Tech",
+  "roleTitle": "Java Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Java",
+   "Microservices",
+   "SQL",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "99d4d5ed11f9f3a1fcade619",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Prosares Solutions",
+  "roleTitle": "Software Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Azure"
+  ]
+ },
+ {
+  "externalKey": "1ca7f4b472cbb2ba937386f3",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Attributics",
+  "roleTitle": "Full-Stack Developer (MarTech)",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Angular",
+   "Java",
+   "MongoDB",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "ab0d137860be0ba7c5b809a4",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Mithi Software Technologies",
+  "roleTitle": "Full Stack Developer (WFO)",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Angular",
+   "Docker",
+   "HTML/CSS"
+  ]
+ },
+ {
+  "externalKey": "d8b0dca5307ba2e6abb9a0dc",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Nxtwave Disruptive Technologies",
+  "roleTitle": "Java Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Degree or certification",
+  "skills": [
+   "Docker",
+   "Java",
+   "SQL",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "a038949299b58d17527dde99",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Techindo Systems",
+  "roleTitle": "Fullstack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "Next.js",
+   "Node.js",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "4143af52cff80287186970cf",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Zensar",
+  "roleTitle": "Full Stack Developer (React + Java)",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Azure",
+   "Java",
+   "Microservices",
+   "React",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "93693add86deed87d4d2a1b1",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Starclinch",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "39fcf50fc8734547c1c7763f",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Rightpoint",
+  "roleTitle": "Front End Developer- React + Next",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "HTML/CSS",
+   "Next.js",
+   "React",
+   "Testing/QA automation"
+  ]
+ },
+ {
+  "externalKey": "c7734313ae5f57d30d44a106",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "VR Della Infotech",
+  "roleTitle": "JAVA Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Angular",
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "cbca5668675ff5178dab7164",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Vidysea Education Noida",
+  "roleTitle": "Fullstack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "MongoDB",
+   "Next.js",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "Redux"
+  ]
+ },
+ {
+  "externalKey": "06024296fea7d64709962e15",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Neighborly",
+  "roleTitle": "Software Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "d47a5ed913ade8e5eb371d9c",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Intech Group",
+  "roleTitle": "Software Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "e9c83dbe9b2114aff456f62c",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Prolync",
+  "roleTitle": "Software Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "d1c1ac5edf57dc6cc076da3e",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Knowledgesprint Technologies",
+  "roleTitle": "Associate Software Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Docker",
+   "HTML/CSS"
+  ]
+ },
+ {
+  "externalKey": "55877b6635bbd6788a900773",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Attributics",
+  "roleTitle": "Junior Associate Software Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "6e4e37624ff7ea595ff3356a",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Eleven Software Solutions",
+  "roleTitle": "Software Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   ".NET/C#",
+   "JavaScript"
+  ]
+ },
+ {
+  "externalKey": "b376c6bc9ed27cb6320f01f2",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Sathya Educare Competency Trust",
+  "roleTitle": "Software Engineer (Full-Stack Development & IT Support)",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "64f7cfa4a4f85b4ec12f50b7",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "BookEventz",
+  "roleTitle": "Software Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "REST APIs",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "dc1449ad9389d5285670aa2f",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Add Pearl Info",
+  "roleTitle": "Backend Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "b7af919326947bd6e1fc8758",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "onified.ai",
+  "roleTitle": "Frontend Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "HTML/CSS"
+  ]
+ },
+ {
+  "externalKey": "6a809829f1b0d7c7093b3a1e",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Techsprout Ai Labs",
+  "roleTitle": "Next.Js Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "Next.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "97317329268a71b858476821",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Forward Eye Technologies",
+  "roleTitle": "Backend Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "Java",
+   "JavaScript",
+   "REST APIs",
+   "SQL",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "1400b86692b9fdae1ad13fae",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "B2Y Infy Solutions",
+  "roleTitle": "MERN Stack Developer with AI Tools",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "GenAI/LLM",
+   "JavaScript",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "14cad79f22d1491b067c1e81",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Skylink Freight Forwarders",
+  "roleTitle": "Fullstack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "dc96fac13c2ac414d77d0f62",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Datanimics Technologies",
+  "roleTitle": "Junior Software Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   ".NET/C#",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "4f938a6d21c002d8467cbd58",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Goldman Sachs",
+  "roleTitle": "Core Engineering L2 Analyst - Software Engineering",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "4d163dcc5be12977b8fb3988",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Jugla Technologies",
+  "roleTitle": "Java Full Stack Developer (React)",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Java",
+   "JavaScript",
+   "Microservices",
+   "React",
+   "SQL",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "a2435b082291ed1b6a1c4031",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Edstellar Solutions",
+  "roleTitle": "Software Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "Node.js",
+   "PHP/Laravel",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "51d74e3466017ce65dc5fefa",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Greensturn",
+  "roleTitle": "Trainee",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "f94a72aa31dec7be754bf3c0",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Adler Talent Solutions",
+  "roleTitle": "AI-Native Full-Stack Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "JavaScript",
+   "Python",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "02d1915a2aff46041fa1bc9d",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Capgemini",
+  "roleTitle": "Java Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Angular",
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "529ae04069cf153d3a33d4a8",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Nominate It",
+  "roleTitle": "AI-First Full Stack Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   ".NET/C#",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "96a6b29a9e68bb8ec4061972",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Shashwath Solution",
+  "roleTitle": "Java Full Stack Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Angular",
+   "Java",
+   "Microservices",
+   "MongoDB",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "65a873e59081b2c34203a9f3",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Leadpulse.io",
+  "roleTitle": "Full stack Developer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Node.js",
+   "REST APIs",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "1c9f29a244e72d729aa7e96e",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Bitespeed",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Node.js",
+   "React",
+   "Redux",
+   "SQL",
+   "Vue"
+  ]
+ },
+ {
+  "externalKey": "023e5bbac5f5c5cf304a49ae",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Tenacious Hr Solution",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Angular",
+   "Java",
+   "JavaScript",
+   "Node.js",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "7e6044f8a8eeb850b4436dec",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Suresh Enterprises",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Angular",
+   "MongoDB",
+   "Node.js",
+   "Python",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "83c181319ce8bad25bfde780",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Bajaj Finance",
+  "roleTitle": "Software Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "d7ef4382bd76c70f5642a3ec",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Bitkraft Technologies",
+  "roleTitle": "FullStack Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Android/Kotlin",
+   "Java",
+   "React",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "95d6aa49fbe0efcf053a82af",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Forward Eye Technologies",
+  "roleTitle": "Full Stack Java Developer - React.js/Javascript",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Degree or certification",
+  "skills": [
+   "Java",
+   "JavaScript",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "a7c0341ac37b2fb3d00a78f1",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Aryng",
+  "roleTitle": "Full Stack Web Developer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "PHP/Laravel",
+   "Python",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "262de561b433465bd045ba41",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Razorthink",
+  "roleTitle": "Trainee Software Engineers – Freshers",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "C++",
+   "HTML/CSS",
+   "Java",
+   "JavaScript",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "3bf6e6fe7f9bb1a11366e98f",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Housewise Services",
+  "roleTitle": "Fullstack Developer (Permanent WFH)",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Angular",
+   "Node.js",
+   "PHP/Laravel",
+   "REST APIs",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "592a9a55f462c5ee2f39a7ac",
+  "date": "2026-11-19",
+  "portal": "Naukri",
+  "company": "Ecommerce Design Agency",
+  "roleTitle": "Full-Stack Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Node.js",
+   "PHP/Laravel",
+   "Python",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "a6d02809e91d2f92e75c4737",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Rajyug It Solutions",
+  "roleTitle": "Backend Developer (Node.js)",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Express",
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "74cbe0b52786d98ac17f9217",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "G3 Digital Innovation",
+  "roleTitle": "Software Engineer - Full Stack",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "ed229ca3cc816cc91d209218",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "G3 Digital Innovation",
+  "roleTitle": "Software Engineer - Front End (Junior Frontend Engineer) - Hyderabad",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "Next.js",
+   "REST APIs",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "574ead657e3721a56e1f2590",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Digital Yug Innovation",
+  "roleTitle": "Full Stack Developer (MERN) - Noida",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "REST APIs",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "a1baf5383dd1b73a4927a20b",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Odex India Solutions",
+  "roleTitle": "Software Engineer - Mumbai",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "JavaScript",
+   "MongoDB",
+   "React",
+   "SQL",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "4a028cf00111fee9635c101c",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Alphonic Network Solutions",
+  "roleTitle": "Node Js Developer - Jaipur",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "afed75dba400dd9c7d89583b",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Hevo Technologies",
+  "roleTitle": "Associate SDE - Bengaluru",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "4d4eae2bf2047f12aea26a1a",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Hotbit Infosoft",
+  "roleTitle": "Web Developer - Indore",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript"
+  ]
+ },
+ {
+  "externalKey": "2b2e3a075509f7cd19b995d1",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Associative",
+  "roleTitle": "Node.js Developer - Pune",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "f92d393938ba89afbf469a4b",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Sails Software Solutions",
+  "roleTitle": "Software Engineer - Visakhapatnam",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Angular",
+   "Docker",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "96a0f7e7bf46e0b5072b187d",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Naksham",
+  "roleTitle": "Full-Stack AI-Enabled Developer - Remote",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "a6d8dacc11ac3d3c46b34cee",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Techbit",
+  "roleTitle": "React Professional - Mohali",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "JavaScript",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "1f0a95b80c8536589cf0304a",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Rightpoint",
+  "roleTitle": "Front End Developer- React + Next - Bengaluru",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "HTML/CSS",
+   "Next.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "191fbac99526ee298b1602e7",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Attributics",
+  "roleTitle": "Full-Stack Developer (MarTech) - Pune",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Angular",
+   "Java",
+   "MongoDB",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "b9dc01758b3308964eed3c2d",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "onified.ai",
+  "roleTitle": "Frontend Developer - Gurugram",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript"
+  ]
+ },
+ {
+  "externalKey": "b8817e36b066ad5526efda98",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Akra Tech",
+  "roleTitle": "Claude Code Developer - Chennai",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Azure"
+  ]
+ },
+ {
+  "externalKey": "884e1789826b49682cf38727",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Starclinch",
+  "roleTitle": "Full Stack Developer - New Delhi",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Next.js",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "1ab37b86f9679b125f9a5b5a",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Coox Online",
+  "roleTitle": "Software Development Engineer - Noida",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "Node.js",
+   "REST APIs",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "bc999fb62bae93166960447d",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Master Chains N Jewels",
+  "roleTitle": "Junior Software Engineer - Mumbai",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   ".NET/C#",
+   "Angular",
+   "Docker"
+  ]
+ },
+ {
+  "externalKey": "e945c84925dcd8e72ea10a31",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Nxtwave Disruptive Technologies",
+  "roleTitle": "Java Full Stack Developer - Hyderabad",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Degree or certification",
+  "skills": [
+   "Java",
+   "SQL",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "d42354c903a7aea99fde5444",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Ezyhelpers India",
+  "roleTitle": "Junior Software Developer - Bengaluru",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "7571633f76075b063e17209c",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "KG Information Systems (KGiSL)",
+  "roleTitle": "Junior Associate - Coimbatore",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "6ad99e484d54fe8cc7b8b8f0",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "ZenCorp Techno Solutions(ZCTS)",
+  "roleTitle": "Programmer - Software Engineer Trainee - Bengaluru",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "4de65198a4f86666241691d4",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Add Pearl Info",
+  "roleTitle": "Backend Engineer - Ahmedabad",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "2fea5b4b8123e32a6de54a9a",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Add Pearl Info",
+  "roleTitle": "Frontend Engineer - Ahmedabad",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "1083ef3aeb6baf7511b4b744",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "webjobs-nest",
+  "roleTitle": "Software Engineer-ReactJs - Bengaluru",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "React"
+  ]
+ },
+ {
+  "externalKey": "0b35f47365b6ca3a3d972ba8",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Prosares Solutions",
+  "roleTitle": "Software Engineer - Mumbai",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "aebf4e486c168f7631c7ac2f",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "INTIME IT SERVICES PRIVATE LIMITED",
+  "roleTitle": "Front End Developer - Kolkata",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "REST APIs",
+   "React",
+   "Tailwind"
+  ]
+ },
+ {
+  "externalKey": "f0316d49f14c342df1df8743",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Osel Devices Limited",
+  "roleTitle": "Web Developer - Greater Noida",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "ee55fb649114e8f499f55fb0",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Bct Consulting (Bahwan CyberTek)",
+  "roleTitle": "Software Development Engineer (SDE 1) - Bengaluru",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Java",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "e98ccc240ff13cd06f9fcf30",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Creative Hands HR",
+  "roleTitle": "Software-Java Developer - Hyderabad/Bengaluru/Chennai",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Docker",
+   "Java",
+   "Microservices",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "45c277b8a0f4feb22c46a274",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Startupwala",
+  "roleTitle": "Back End Web Developer - Pune",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "PHP/Laravel",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "ae36a6949c498f093b8f0b53",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Codechain Technologies",
+  "roleTitle": "Full Stack Developer - Surat",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "14e6ec8948589c510c85800a",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "PSRTEK",
+  "roleTitle": "Java Developers - Pune/Bengaluru",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "05b4ea07978c71886e10f6b7",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Huemot Technology",
+  "roleTitle": "Java Developer - Pune",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "0fe286d40c8fe6799f92d486",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Suparna",
+  "roleTitle": "Software Engineer / WEB Developer - Hyderabad",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "ab8fa22588a24bb073849405",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "4i Apps",
+  "roleTitle": "Associate Technical Consultant (NBA Full Stack Development) - Chennai",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "4e7b8e73e93b5121faaa9574",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Cisco",
+  "roleTitle": "Software Engineer - Bengaluru",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "4eb77d666cc9a39c74b5b310",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Rajyug It Solutions",
+  "roleTitle": "Frontend Developer (React / Next.js) - Pune",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Next.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "e3ccca6d29e619a31e0670c2",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "webjobs-nest",
+  "roleTitle": "Software Engineer-Full Stack Java Developer - Bengaluru",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "72e724c3052df6b58f4ed54c",
+  "date": "2026-11-20",
+  "portal": "Naukri",
+  "company": "Hedgeness",
+  "roleTitle": "Junior Full Stack Developer Java & AI-Assisted Development - Remote (Pune)",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Angular",
+   "Java",
+   "REST APIs",
+   "SQL",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "7a75ceb275eec55b3592fbf1",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Klimb.io",
+  "roleTitle": "Full Stack Developer (Intern) - WFH",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Express",
+   "GenAI/LLM",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "4beb2d0d64059e7bb8941f96",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "HSV Digital",
+  "roleTitle": "SDE I - Gurgaon",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Next.js",
+   "Node.js",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "19c85e93b1f4f21aaa368b11",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Zevo360 Technologies",
+  "roleTitle": "Junior Full Stack Developer - Indore",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Next.js",
+   "Node.js",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "11a0e269b67dc2d81e4245ee",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Swiggy",
+  "roleTitle": "SDE 1 (Frontend) - WFH",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "React",
+   "Redux",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "b3e13a717ca5ed6f0c087744",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Swiggy",
+  "roleTitle": "React.js Developer - WFH",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Next.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "923dd350c6a8eded835636f9",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Paypal",
+  "roleTitle": "Software Engineer - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Express",
+   "Next.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "0b7bc833b0f8c96231d55012",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "ConveGenius",
+  "roleTitle": "SDE - 1 Node.js - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "JavaScript",
+   "MongoDB",
+   "Node.js",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "8f2d52317e5ac3903572668e",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "GrowthSchool",
+  "roleTitle": "SD - 1 - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Node.js",
+   "Redis",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "e62395d1c84c69fe29b247f3",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Medront",
+  "roleTitle": "Software Engineer - WFH",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "eec319660f36577ca663b107",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Mirabel Technologies",
+  "roleTitle": "Jr. Full Stack Developer (AI Assisted Coding) - Hyderabad",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "1ccf0fbab15d4f0cc3579aae",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "SPI Aviation Support Services",
+  "roleTitle": "Full Stack Engineer - Chennai",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "Docker",
+   "MongoDB",
+   "Node.js",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "3ceda6fb6a3cc8967a7c747b",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "TheraDriver",
+  "roleTitle": "Backend Engineer - WFH",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "GCP",
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "bb237a03973b6e8a42cd81d3",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Zilo",
+  "roleTitle": "Backend Developer - Mumbai",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "MongoDB",
+   "Node.js",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "c02cd03c96f1815f1b63c808",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Kiwi General Insurance",
+  "roleTitle": "Backend Engineer - Mumbai",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Node.js",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "04500fb843ab2a0314fc643b",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Autodraft AI",
+  "roleTitle": "Full - Stack Engineer - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Next.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "2d814603117b3b3063169fd9",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "AiPrise",
+  "roleTitle": "Software Engineer I, Full Stack (Frontend Focused) - Bangalore",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "HTML/CSS",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "33715a14304e4ce9852631d8",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Deloitte",
+  "roleTitle": "Full-Stack Developer - Lucknow",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "7bd8b04cd24cf3ab45add3f1",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "nCircle Tech",
+  "roleTitle": "AI-Enabled MERN Stack Developer - Pune",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "GraphQL",
+   "Next.js",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "12ee18f6634dfcbccc769432",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Nomni",
+  "roleTitle": "Full - Stack Engineer - Bangalore/Chennai",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "Next.js",
+   "Node.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "d099600c62b98cf8674f4220",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "A3logics",
+  "roleTitle": "Full - Stack Developer - Jaipur",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Angular",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "4dff2ad5e9f41fdb8d76d05a",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "thinkify.io",
+  "roleTitle": "UI Developer - Front End - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "d3193430a4b3946e9b4341fe",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "TATA Communications",
+  "roleTitle": "Jr Team Member - Software & Application Development - Pune",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "1292afc543202d373a4bbffe",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Zepto",
+  "roleTitle": "Software Engineer 1 - Web - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "81a9b9d1326b6f97a3dce898",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "PocketFM",
+  "roleTitle": "Software Engineer - Web - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "Next.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "860c19bacae450789086835e",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Astra Web Security",
+  "roleTitle": "SDE I - Frontend Engineer (Reactjs, Nextjs) - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "HTML/CSS",
+   "Next.js",
+   "React",
+   "Tailwind"
+  ]
+ },
+ {
+  "externalKey": "47c1755a295ffb0483e3e745",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Surepass Technologies",
+  "roleTitle": "Associate Frontend Engineer - Delhi",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "Next.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "68d69f11620806aee81c4146",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Skydo",
+  "roleTitle": "Frontend Engineer - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Next.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "fd7d234887ed9106c13ed76a",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Slikk",
+  "roleTitle": "Frontend Developer - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "Next.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "3470f482e2c8ab1acec721c3",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Myrik",
+  "roleTitle": "Backend Engineer - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "GraphQL",
+   "Java",
+   "MongoDB",
+   "Node.js",
+   "REST APIs",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "d9985080b2bb815d920c1370",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Apollo Finvest",
+  "roleTitle": "Software Engineer - Mumbai",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "Java",
+   "JavaScript",
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "cd46391618cc2c50d1e076b7",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Everest Fleet",
+  "roleTitle": "Frontend Engineer - WFH",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "React",
+   "Redux"
+  ]
+ },
+ {
+  "externalKey": "e1bef1ffadc687261f4585d3",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Cisco",
+  "roleTitle": "IT Software Engineer - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Angular",
+   "Docker",
+   "Java",
+   "JavaScript",
+   "Kubernetes",
+   "Node.js",
+   "Spring Boot",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "5bfb46bdd4a27db1e96a0a55",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Snapdeal",
+  "roleTitle": "Software Engineer - Frontend - Gurgaon",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "React",
+   "Redux"
+  ]
+ },
+ {
+  "externalKey": "bb4b42eb9f67be3f6c7dc741",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Healthfab",
+  "roleTitle": "Fullstack Developer - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "d6f3925509688b6bc3f7067c",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Hive",
+  "roleTitle": "Frontend Engineer - Gurgaon",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "React",
+   "Redux"
+  ]
+ },
+ {
+  "externalKey": "859722d74dc083094a2006b0",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Deepintent",
+  "roleTitle": "Software Engineer - Pune",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java",
+   "JavaScript",
+   "React",
+   "SQL",
+   "Spring Boot",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "7c4fae0eef8a557efa32b134",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "msg global solutions",
+  "roleTitle": "Front End Developer - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "JavaScript",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "0c241a823658429a3086c026",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Skydo",
+  "roleTitle": "Frontend Developer - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Next.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "4f26201a21b1e9dfe4a17c3a",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Adalat AI",
+  "roleTitle": "Full - Stack Developer - WFH",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Go",
+   "JavaScript",
+   "Next.js",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "006d16aa5356c43580a6c09b",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Machstatz",
+  "roleTitle": "Front End Developer - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Angular",
+   "HTML/CSS",
+   "JavaScript",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "b55b74cd064e7a6f4be3a04b",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "SublimeX",
+  "roleTitle": "Full Stack Engineer - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "Node.js",
+   "TypeScript",
+   "Vue"
+  ]
+ },
+ {
+  "externalKey": "122d2a4571afafc73a43a52c",
+  "date": "2026-11-20",
+  "portal": "Instahyre",
+  "company": "Bluno",
+  "roleTitle": "SDE - 1 (Backend) - Bangalore",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Java",
+   "REST APIs",
+   "SQL",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "e7af6a359717c9b512e6694d",
+  "date": "2026-11-23",
+  "portal": "Instahyre",
+  "company": "Klimb.io",
+  "roleTitle": "Full Stack Developer Intern",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "5aaf4def79826d431b71d459",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "CavinKare",
+  "roleTitle": "Full stack developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "1d5ba6c2a7bcbc647544a316",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Shashwath Solution",
+  "roleTitle": "Web Developer (React & Next js)",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "JavaScript",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "00cc623c407d17dae136468b",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Ibrowsejobs Technologies",
+  "roleTitle": "Software Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "a7044622e1a24fd3ccf12068",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Talent Bee Consulting",
+  "roleTitle": "Software Engineer (React & Node.js)",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "2f8a9a425ee8e8445932cd93",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Digital Yug Innovation",
+  "roleTitle": "Full Stack Developer (MERN)",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "f640bf306cae04ec768c84ce",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "G3 Digital Innovation",
+  "roleTitle": "Software Engineer - Full Stack",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "69ce104b1d55d4aa4506fa7e",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "G3 Digital Innovation",
+  "roleTitle": "Software Engineer - Front End",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "Next.js",
+   "REST APIs",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "42d2054a45e80bd684c04da7",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "IMS Learning Resources",
+  "roleTitle": "Fullstack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "0da092f1fee17a1476049a50",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Shipmozo",
+  "roleTitle": "Node Js Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "REST APIs"
+  ]
+ },
+ {
+  "externalKey": "a93d88fcaa5272d1409c7cfb",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Double Slash Internet",
+  "roleTitle": "Node Js Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "Node.js",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "69d32a36fc038021e77f76ae",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Rokkun",
+  "roleTitle": "Node js Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "8edfa2b30093b832265df867",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "IMS Learning Resources",
+  "roleTitle": "Fullstack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "cf5a951fc0435e99fb3953c1",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Developer Bazaar Technologies",
+  "roleTitle": "Backend Developer (Node.js)",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "fb4b8c033cec30962d756ef3",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Naineet Tech",
+  "roleTitle": "Software Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Java",
+   "JavaScript",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "fb243d384c52b7181585a09b",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Valuelabs",
+  "roleTitle": "Full Stack Developer (Java & React.js)",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Java",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "e5a320ca6dd78f0b0db3ae96",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Nexacore",
+  "roleTitle": "Java Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Java",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "524602af1cb592c5f72f970e",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Knot Host Fze",
+  "roleTitle": "Full stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "37cc78ce117e26336782f8a2",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "CavinKare",
+  "roleTitle": "Full stack developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "f70fc20ea59f3769d3061afe",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Santhila Databot",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "6d37fdc620aa10d2d0ff6b32",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Saiha Software Technologies",
+  "roleTitle": "Full Stack Developer - Fresher",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "8123f5cc77f39696054e67b0",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Geekynd",
+  "roleTitle": "Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "ef10bf7694ec7b9b6a0e00de",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Rajyug It Solutions",
+  "roleTitle": "Backend Developer (Node.js)",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "3ef6cdbab237bec5139a1fae",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Cafs Infotech",
+  "roleTitle": "Backend Developer (Node.js & MongoDB)",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "9bb429a6f309a730187a888b",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Antarctica Global",
+  "roleTitle": "Junior Backend Developer (Node.JS)",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "f98a075870b619d13966c5eb",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Bonzer Business Solutions",
+  "roleTitle": "Java Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Java",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "74bc734e132bbabbeb786033",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Newgen",
+  "roleTitle": "Java Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "ea91a19e5752c83741c54a2e",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Natcare Solutions",
+  "roleTitle": "Junior Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "0dcf2e6d7f57719cac53d2ee",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Techsprout Ai Labs",
+  "roleTitle": "Next.Js Developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "AWS",
+   "Next.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "741af239e8dfead158ffac44",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Squirrel Softech Services",
+  "roleTitle": "SAP BW HANA Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Degree or certification",
+  "skills": [
+   "SAP",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "e331931101405064f70b55d8",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Rsvr Technologies",
+  "roleTitle": "React JS Developer (intern)",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Next.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "42fbc70106632bc1132a1148",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "IMS Learning Resources",
+  "roleTitle": "Fullstack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "786416ff31e67a4c1c6abd0d",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "QAF Digital Platforms",
+  "roleTitle": "Java Script Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "REST APIs"
+  ]
+ },
+ {
+  "externalKey": "b3253764d9142132fa862e3a",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Aaron Software Solutions",
+  "roleTitle": "Product manager and Full stack developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": []
+ },
+ {
+  "externalKey": "040700be9fd7989915649961",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Nxtwave Disruptive Technologies",
+  "roleTitle": "Java Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java",
+   "REST APIs",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "9e1772102bd6c29d4e935903",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Knot Host Fze",
+  "roleTitle": "Full stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Next.js",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "9fd6b6f55d0203b6a4c93280",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Gepl Capital",
+  "roleTitle": "Mern Stack Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "26a15f40a401b509f39d48e7",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Techbit",
+  "roleTitle": "React Professional",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "7002727890455722b39e19f0",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Techbit",
+  "roleTitle": "MERN stack Professional",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "a375c8d7eac44985ecc94852",
+  "date": "2026-11-23",
+  "portal": "Naukri",
+  "company": "Techpulse It Services",
+  "roleTitle": "React Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "6bca1b59d3de3a783008dbc8",
+  "date": "2026-11-24",
+  "portal": "Instahyre",
+  "company": "Klimb.io",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "JavaScript",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "2afd2dd69bffd64fa63e7f2b",
+  "date": "2026-11-24",
+  "portal": "Naukri",
+  "company": "Spartan Infosoft",
+  "roleTitle": "Java Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Java",
+   "REST APIs",
+   "React",
+   "SQL",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "fe1aca3e51b5dd6390b435bc",
+  "date": "2026-11-24",
+  "portal": "Naukri",
+  "company": "Shashwath Solution",
+  "roleTitle": "Web Developer (React & Next js)",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Next.js",
+   "React",
+   "Tailwind",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "c42616ccda075b4418a767d2",
+  "date": "2026-11-24",
+  "portal": "Naukri",
+  "company": "Technoworld Software Solutions",
+  "roleTitle": "Java Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "58b906af602e6bb6fe7a3225",
+  "date": "2026-11-24",
+  "portal": "Naukri",
+  "company": "Saiha Software Technologies",
+  "roleTitle": "Full Stack Developer - Fresher",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "a7d0f5380d37d2a4d9587129",
+  "date": "2026-11-24",
+  "portal": "Naukri",
+  "company": "Hbwebsol",
+  "roleTitle": "Backend Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "1a067ee5b9e7df69837e40ae",
+  "date": "2026-11-24",
+  "portal": "Naukri",
+  "company": "Shashwath Solution",
+  "roleTitle": "Web Developer (React & Next js)",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Next.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "e02805f2f1924ac6c258fe98",
+  "date": "2026-11-24",
+  "portal": "Naukri",
+  "company": "Associative",
+  "roleTitle": "Node.js Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "8a92775784f4fce72fe7d322",
+  "date": "2026-11-24",
+  "portal": "Naukri",
+  "company": "Naineet Tech",
+  "roleTitle": "Software Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java",
+   "JavaScript",
+   "REST APIs",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "faf24ce8b562333045da85d8",
+  "date": "2026-11-18",
+  "portal": "Wellfound",
+  "company": "Stylework",
+  "roleTitle": "Junior full stack engineer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "CI/CD",
+   "MongoDB",
+   "Node.js",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "4e54768fa44a80cc58f659c9",
+  "date": "2026-11-18",
+  "portal": "Wellfound",
+  "company": "Spenza",
+  "roleTitle": "Full Stack Engineer - MERN",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "0e3744712265406e3883587d",
+  "date": "2026-11-18",
+  "portal": "Wellfound",
+  "company": "MaxHome.ai",
+  "roleTitle": "Full-stack engineer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "5da2f215f313468096a25340",
+  "date": "2026-11-18",
+  "portal": "Wellfound",
+  "company": "Distill",
+  "roleTitle": "Senior Full Stack Engineer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "5af02cc9959dbcff23619ab3",
+  "date": "2026-11-18",
+  "portal": "Wellfound",
+  "company": "Finthos",
+  "roleTitle": "Full-Stack Engineer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "1d3d56eda48acfb21ee2fb02",
+  "date": "2026-11-18",
+  "portal": "Wellfound",
+  "company": "Dentira",
+  "roleTitle": "Senior Full Stack Engineer - SDE 2",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "6dc04656d55c359ebbaa413e",
+  "date": "2026-11-18",
+  "portal": "Wellfound",
+  "company": "Feelin's App",
+  "roleTitle": "Full Stack Engineer (Node.js + Flutter)",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Flutter/Dart",
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "83f9511ee73f7044591d6c92",
+  "date": "2026-11-18",
+  "portal": "Wellfound",
+  "company": "Seek Rewards",
+  "roleTitle": "Full Stack Engineer (+Flutter)",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Flutter/Dart",
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "6fa2d00456760224c46c3da4",
+  "date": "2026-11-18",
+  "portal": "Wellfound",
+  "company": "KoiReader",
+  "roleTitle": "FullStack JavaScript Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "JavaScript",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "0be3fdead74640a731245b41",
+  "date": "2026-11-18",
+  "portal": "Wellfound",
+  "company": "BIZTELAI",
+  "roleTitle": "Junior Software Engineer - Full Stack / AI",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "1d0dfa47d6b2c4e64c30b007",
+  "date": "2026-11-18",
+  "portal": "Wellfound",
+  "company": "Kulfi",
+  "roleTitle": "Software Engineer I - Product / Full-Stack",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "REST APIs",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "547b8ba54f4c2c9fdcea3d30",
+  "date": "2026-11-18",
+  "portal": "Wellfound",
+  "company": "Abstrabit Technologies",
+  "roleTitle": "Senior Software Engineer (SDE-2)",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "GenAI/LLM",
+   "Next.js",
+   "Node.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "d59d7814c83592a00b416cdb",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Swift",
+  "roleTitle": "AI Engineer, Full Stack (Automation & Frontend Focus)",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "GenAI/LLM",
+   "Java",
+   "MongoDB",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "749a41c95a3df7aa8e5b1203",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Abstrabit Technologies",
+  "roleTitle": "Senior Software Engineer (SDE-2)",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "GenAI/LLM",
+   "Next.js",
+   "Node.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "4734aa3d9d96733882632068",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "BIZTELAI Technologies",
+  "roleTitle": "Junior Software Engineer - Full Stack / AI",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "359f9d0a23cd66a15c04294a",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Variabl",
+  "roleTitle": "Full-Stack Engineer (AI)",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "97e8eb7b3053781768f276ec",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Songbird Fusion Labs",
+  "roleTitle": "Software Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "Docker",
+   "Node.js",
+   "Redis",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "ed9070facbfdbf13353c4ad9",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Commenda",
+  "roleTitle": "Software Engineer - Product",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "GenAI/LLM"
+  ]
+ },
+ {
+  "externalKey": "1eddc39a5f779a2b9de2d201",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Coinbag",
+  "roleTitle": "Full Stack Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "4800716a0e23770ddb6dce9a",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Actioneer",
+  "roleTitle": "Software Engineer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Java",
+   "Next.js",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "1ebe04b8930bc8cccf6603a7",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "New Street Technologies",
+  "roleTitle": "Software Engineer II - Backend",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Docker",
+   "Python",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "08e2cb630c8627a54fff6a6f",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Shipthis Inc",
+  "roleTitle": "Software Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Angular",
+   "Django/FastAPI/Flask",
+   "JavaScript",
+   "MongoDB",
+   "Python",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "f24681675ea591eb5ff4af15",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Medvise AI",
+  "roleTitle": "Software Development Engineer - 1",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "JavaScript",
+   "React",
+   "Redux",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "980980d6b3c24765b3b612c8",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "OCTAVOLAB",
+  "roleTitle": "Full Stack Engineer - OctavoLab",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Docker",
+   "Python",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "6cf46aa11865ad1874d1134f",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Steps AI",
+  "roleTitle": "Software Development Engineer (SDE) - Full Stack",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Next.js",
+   "Node.js",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "0d74ee886b9996080dc38d4b",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Loopr AI",
+  "roleTitle": "Software Engineer II (Frontend)",
+  "expBand": "3–5 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Docker",
+   "JavaScript",
+   "Node.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "7e1fde8df807339d21fdc570",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Steps AI",
+  "roleTitle": "AI Software Engineer (Backend, Agentic, and Voice AI)",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "GenAI/LLM",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "4f4c18dba02b15430dbd197e",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Steps AI",
+  "roleTitle": "Software Development Engineer - Frontend Focus",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Flutter/Dart",
+   "Next.js",
+   "React",
+   "React Native",
+   "Tailwind",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "32a0cff12a7068db03cdd7ff",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Pica",
+  "roleTitle": "Software Engineer - Integrations & Platform",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "ff528b09a9bf361c5121ccaa",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "OpenVector",
+  "roleTitle": "Full-Stack Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "C++",
+   "Node.js",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "d2dccc6b53b9ad5e1ccadc7b",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "ARPM",
+  "roleTitle": "Software Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   ".NET/C#"
+  ]
+ },
+ {
+  "externalKey": "bc3e5fb6e081de9283d4ad4d",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "SquareYards",
+  "roleTitle": "Full Stack Engineer (NodeJS/ExpressJS/ReactJS/MySQL) - 1 Year",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "HTML/CSS",
+   "JavaScript",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "Redux",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "af3a8aa809477cf13923a131",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "MaxHome.ai",
+  "roleTitle": "Junior Full-Stack Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "JavaScript",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "956c3bae23dc0d4e608f75fc",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "SquareYards",
+  "roleTitle": "MERN Stack Developer - Backend & Distributed Systems",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Express",
+   "Kafka/RabbitMQ",
+   "MongoDB",
+   "Node.js",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "674d4170d2462bc4be1e377d",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "IDfy - Baldor Technologies",
+  "roleTitle": "Software Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Go",
+   "Microservices",
+   "Node.js",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "8c54624e1c69aee1cc2fe45e",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Merito",
+  "roleTitle": "Fullstack MERN Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Express",
+   "Kafka/RabbitMQ",
+   "MongoDB",
+   "Node.js",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "1c24612073edbbeaab581517",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "QualifyCode",
+  "roleTitle": "Software Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Node.js",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "d29dc4451b535437aeabfea3",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Aight",
+  "roleTitle": "Software Engineer-I",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "CI/CD",
+   "Docker",
+   "GCP",
+   "Node.js",
+   "Python",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "306bf4f1257a69c924f04536",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Agilemorph Solutions",
+  "roleTitle": "AI-Native Full-Stack Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "CI/CD",
+   "Docker",
+   "GenAI/LLM",
+   "JavaScript",
+   "Next.js",
+   "Node.js",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "544275718ad65a241a3a677c",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "AUMHUM",
+  "roleTitle": "Full Stack Engineer (1-2 yrs) - Bangalore",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java",
+   "MongoDB",
+   "React",
+   "React Native",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "6e271dae723d2454eddd7713",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Recollia",
+  "roleTitle": "Full-Stack Engineer, Frontend and Design",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "HTML/CSS",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "72fbab02d814c8754023a326",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Nofeez",
+  "roleTitle": "Software Engineer - Full Stack",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "47f724eff70fb084ec9871dd",
+  "date": "2026-11-19",
+  "portal": "Wellfound",
+  "company": "Vested Finance",
+  "roleTitle": "Software Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Java",
+   "Microservices",
+   "Node.js",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "697a6edf50ae9b47efc07c3b",
+  "date": "2026-11-19",
+  "portal": "Cutshort",
+  "company": "MathonGo",
+  "roleTitle": "Backend Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "MongoDB",
+   "Node.js",
+   "REST APIs",
+   "Redis",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "86193acef64d8bbb604a7276",
+  "date": "2026-11-19",
+  "portal": "Cutshort",
+  "company": "WorkBuddyHR",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "a2bdaf1ad5036dabcb1dc8a1",
+  "date": "2026-11-19",
+  "portal": "Cutshort",
+  "company": "SwitchKart",
+  "roleTitle": "Full Stack Developer - Junior",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Node.js",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "704616536b5c545af1c7b430",
+  "date": "2026-11-19",
+  "portal": "Cutshort",
+  "company": "appscrip",
+  "roleTitle": "Full-Stack Engineer (AI-Native)",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "GenAI/LLM",
+   "GraphQL",
+   "Next.js",
+   "Node.js",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "be73f45681533fdde5910560",
+  "date": "2026-11-19",
+  "portal": "Cutshort",
+  "company": "NxtWave",
+  "roleTitle": "SDE 1 Full Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "JavaScript",
+   "Node.js",
+   "React",
+   "Redux",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "9c6f503c384dfdce3bc7de3d",
+  "date": "2026-11-19",
+  "portal": "Cutshort",
+  "company": "Versatile Commerce LLP",
+  "roleTitle": "Node Js Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "b233c33c8a31c2483e12d0fd",
+  "date": "2026-11-19",
+  "portal": "Cutshort",
+  "company": "Deltek",
+  "roleTitle": "Software Engineer - Full Stack (Node.js and React)",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "be93ac2e99c325f52cf1b1a2",
+  "date": "2026-11-19",
+  "portal": "Cutshort",
+  "company": "Redtring",
+  "roleTitle": "Full stack development & Automation Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "Node.js",
+   "Python",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "bf562cb892c4659165c9cdfa",
+  "date": "2026-11-19",
+  "portal": "Cutshort",
+  "company": "GeoIQ",
+  "roleTitle": "Frontend Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "React"
+  ]
+ },
+ {
+  "externalKey": "77f3fe1d33920559697b966f",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "OCTAVOLAB",
+  "roleTitle": "Full Stack Engineer – OctavoLab",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Docker",
+   "Python",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "c57e5cda44bee717179df780",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "OpenVector",
+  "roleTitle": "Full-Stack Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "C++",
+   "Node.js",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "17d2f097810a31a6d2e3f994",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Variabl",
+  "roleTitle": "Full-Stack Engineer (AI)",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "GenAI/LLM",
+   "Next.js",
+   "Python",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "dc3eebaf1a32c30968d05e06",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "ARPM",
+  "roleTitle": "Software Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "f336055e9acca57bb9fbc928",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "C42",
+  "roleTitle": "Software Engineer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "AWS",
+   "Go",
+   "Node.js",
+   "Python",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "b90dd553dc211003b7bc86ad",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "DC Tech Consulting",
+  "roleTitle": "Software Engineer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "e1aa258ced0c1c8cc625c1ee",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Actioneer",
+  "roleTitle": "Software Engineer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "c8b67483e06ec7369a9e4108",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "IDfy - Baldor Technologies",
+  "roleTitle": "Software Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Go",
+   "Node.js",
+   "Python",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "bc4ad2424dd96db4b61385b6",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Commenda",
+  "roleTitle": "Software Engineer – Product",
+  "expBand": "Not stated",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": []
+ },
+ {
+  "externalKey": "3b67ed198dbbbc325eeba85f",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Merge",
+  "roleTitle": "Frontend Developer - Payments Fintech",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Java",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "9e640fad335765f62c8e3147",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "SquareYards",
+  "roleTitle": "Full Stack Engineer NodeJS/ExpressJS/ReactJS/MySQL (2-3 yrs repost)",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Express",
+   "Node.js",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "f238b6d1f185cb46c4eb3d6b",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "SquareYards",
+  "roleTitle": "Full Stack Engineer NodeJS/ExpressJS/ReactJS (Mumbai repost)",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Express",
+   "Node.js",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "21d6bfa8181ac0e399c31ba2",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Cube",
+  "roleTitle": "Full Stack AI Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "0629c60261fc019ceed8d8f5",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Cloudesign",
+  "roleTitle": "Full-Stack Software Engineer - AI&ML integration",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Next.js",
+   "Node.js",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "7d486c74d96e7721fc60c803",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Springboard",
+  "roleTitle": "Product Engineer (Full Stack, IC)",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "2b05c557711bf79d0da9d359",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Sardine",
+  "roleTitle": "Software Engineer - Backend",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Go",
+   "Node.js",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "06fc76d9a6f52f7fe874e0f2",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "New Street Technologies",
+  "roleTitle": "Software Engineer II — Backend",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Django/FastAPI/Flask",
+   "Python",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "beef76a4cf43a6fb347831e2",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "cardboard.ai",
+  "roleTitle": "Backend Engineer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Python",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "070df462525c1aa0e9649ed6",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Arivihan Technologies",
+  "roleTitle": "Frontend Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "Next.js",
+   "React",
+   "Tailwind",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "63d2b8fdef674acdd8fcf84c",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Recollia",
+  "roleTitle": "Full-Stack Engineer, Frontend and Design",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Next.js",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "141015b17f8a78719ededbba",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Better",
+  "roleTitle": "Associate Software Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "ddd4418851a41c2adc63a1d0",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Circuit House Technologies",
+  "roleTitle": "Frontend Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "JavaScript",
+   "React",
+   "Redux",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "dc82889f7509e868d3e1cdc3",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Verifast AI",
+  "roleTitle": "Software Developer- Full Stack",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Microservices",
+   "Next.js",
+   "Node.js",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "58d6c430a6aa982f410a7120",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "LeanOnn",
+  "roleTitle": "Software Engineer (Founding Engineer)",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Android/Kotlin",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "8b92675c7d8c9285796e9c76",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "RentOk",
+  "roleTitle": "Fullstack Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Node.js",
+   "REST APIs",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "76c00ececceb3674972b86f2",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Proverse Talent",
+  "roleTitle": "Software Engineer - Fullstack",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "AWS",
+   "Next.js",
+   "Python",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "feb9253ff2f002961313916c",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Re (Wellfound)",
+  "roleTitle": "Software Engineer (Backend - Python + Django)",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "485b1271c64e68c9fea9346a",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Kulfi",
+  "roleTitle": "Software Engineer II - Backend & Product Engineering",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Flutter/Dart"
+  ]
+ },
+ {
+  "externalKey": "e0348e2860eb99a3f6cc9aa0",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Perceptive Labs",
+  "roleTitle": "Backend + Cloud Software Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Django/FastAPI/Flask",
+   "Python",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "a8a375d7c2b4cb16acd79374",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Beyond Technologies",
+  "roleTitle": "Founding Engineer-Delivery",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "02b3a3a7d0a170ac904a8283",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Enterprise AI (Chennai)",
+  "roleTitle": "AI Engineer, Enterprise AI Development",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "GenAI/LLM",
+   "Java",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "6263491489f77a3bc8064dc6",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Avacasa",
+  "roleTitle": "Founders Office - Tech - Equity",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "4ae4dbb4ecf65a14332cf574",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "SDE1 backend (Wellfound 4817713)",
+  "roleTitle": "Software Development Engineer 1 (SDE-1) – Backend",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Java",
+   "MongoDB",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "670e73ef74a34428e4c449ed",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Pepper",
+  "roleTitle": "Full Stack Engineer, Storefront",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Python",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "95e543c7d99e5b9c6a4903ab",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Virta Health",
+  "roleTitle": "Software Engineer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "AWS",
+   "Go"
+  ]
+ },
+ {
+  "externalKey": "80874f6a20d163be54fab5b1",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Rula",
+  "roleTitle": "Software Engineer II",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "d87d79c0c3d95aa5803853a6",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "VALIS Insights",
+  "roleTitle": "Software Engineer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   ".NET/C#",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "a84613e915cbbaac46b8dfc5",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Constructor.io",
+  "roleTitle": "Software Engineer: Core",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "C++",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "621af650ea04357f63304404",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Constructor.io",
+  "roleTitle": "BackEnd Engineer: Experiments",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "845aaacb48dc6bc863c7e41e",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Modern Treasury",
+  "roleTitle": "Software Engineer - Infrastructure",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "AWS"
+  ]
+ },
+ {
+  "externalKey": "0dddedc1e0f15bdbb5d93426",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Teal India",
+  "roleTitle": "Software Engineer - Full Stack",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Next.js",
+   "Node.js",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "74e636abdb155d565403380e",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Catalysts",
+  "roleTitle": "Full-Stack Software Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "502856460b31ad3ce22c7dd8",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Steps AI",
+  "roleTitle": "Software Development Engineer - Frontend Focus",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Next.js",
+   "React",
+   "Tailwind",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "6a5724514ba06cb56b7bb356",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Neutals (HumanizedText)",
+  "roleTitle": "Software Engineering Experts ( Freshers )",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "62aa518d9087289badac9327",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Simpli",
+  "roleTitle": "Full-Stack Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Next.js",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "fb5575ae70345ea272403703",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Beyond Technologies",
+  "roleTitle": "Founding Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Node.js",
+   "Python",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "678938df891923901ebc60e1",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Digit88",
+  "roleTitle": "Full Stack AI Engineer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Next.js",
+   "Node.js",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "8e09e2173e76755e88a159e0",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Moongate",
+  "roleTitle": "Full Stack Software Engineer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Node.js",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "5054652dc17697ecb0519dde",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "RapidData",
+  "roleTitle": "Full Stack Application Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "f562b6d9f6e4caa1767d4a57",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Websmiths",
+  "roleTitle": "Frontend Engineer (Remote)",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Next.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "47390f67a0f688d30ffaaab3",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "RapidData",
+  "roleTitle": "AI Backend Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "GenAI/LLM",
+   "Java",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "b25fc0e653ee2702a03e3590",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Opland Technologies",
+  "roleTitle": "React.js + AI Agent Development Interns",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "3f92e582e823318deec71e5a",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Kodo (Wellfound)",
+  "roleTitle": "AI Systems Engineer (3+ Years Experience)",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "2385fa2dd5acbd1f83c519a4",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Razonica",
+  "roleTitle": "Full Stack Developer (Next.js + Node.js + Cloud/DevOps)",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "Express",
+   "MongoDB",
+   "Next.js",
+   "Node.js",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "d0fb92dc6e98e34fdca96f5e",
+  "date": "2026-11-20",
+  "portal": "Wellfound",
+  "company": "Softprobe.ai",
+  "roleTitle": "Software Engineer — AI Agent QA & Observability",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "GenAI/LLM"
+  ]
+ },
+ {
+  "externalKey": "0c692adb06701fd4f8ffce74",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "Surety Seven Technologies",
+  "roleTitle": "Software Development Engineer-1",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Next.js",
+   "Node.js",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "5671737e214d97099c91663e",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "StarApps",
+  "roleTitle": "Software Engineer - Node.js / TypeScript",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "Node.js",
+   "REST APIs",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "32c61250e5439055be577755",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "RJ Fintech Solutions Pvt Ltd",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "bfdc51e60e63d2a5308e586e",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "GlobalSignIn",
+  "roleTitle": "NodeJS Engineer - Snapsight",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "JavaScript",
+   "MongoDB",
+   "Node.js",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "577a210495f0c9b0e8f536f1",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "Ritually",
+  "roleTitle": "Founding Full Stack Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "CI/CD",
+   "DevOps",
+   "JavaScript",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "e86d82a7370d89c1e2d9acb8",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "Hello Edge (workwise)",
+  "roleTitle": "Full-Stack Software Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Go",
+   "Node.js",
+   "REST APIs",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "a9b252cdb93ba3ba8df73171",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "Talent Teams",
+  "roleTitle": "Software Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Node.js",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "a520ef1c2bc6f716138522a7",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "Automate Accounts",
+  "roleTitle": "Software Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Node.js",
+   "Python",
+   "REST APIs"
+  ]
+ },
+ {
+  "externalKey": "0f64e273fb9f9719a1a10819",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "The Persona Labs",
+  "roleTitle": "Founding Product Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Android/Kotlin",
+   "Flutter/Dart",
+   "React Native",
+   "iOS/Swift"
+  ]
+ },
+ {
+  "externalKey": "0756927ff03d0d8dc9555070",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "Cloud Sara Technologies",
+  "roleTitle": "Node.js Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "8a27e8285c463d79bf8b02df",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "Cutshort Lightning (Experiential Learning)",
+  "roleTitle": "Fullstack Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Angular",
+   "Java",
+   "Node.js",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "a509ee5da4551b5b44e2bb25",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "Mako IT Lab Private Limited",
+  "roleTitle": "Full-stack Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "d10f84fe2b4d8fd133cacc2f",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "ProofofSkill",
+  "roleTitle": "Founding Full Stack Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Next.js",
+   "Node.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "90d9da47ec9ddfd35bc0214f",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "Metron Security Private Limited",
+  "roleTitle": "Front End Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Angular",
+   "JavaScript",
+   "MongoDB",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "3d036ac8b125d5e433eb0918",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "suntekai",
+  "roleTitle": "Full Stack JavaScript/TypeScript Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Next.js",
+   "Redux",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "d4e627ad519f822e2f60f13c",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "Quixta",
+  "roleTitle": "Junior Next.js Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Next.js",
+   "React",
+   "Tailwind"
+  ]
+ },
+ {
+  "externalKey": "eca3334ee6449e55e35e8d55",
+  "date": "2026-11-20",
+  "portal": "Cutshort",
+  "company": "NeoGenCode Technologies Pvt Ltd",
+  "roleTitle": "Frontend Developer (React.js)",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "HTML/CSS",
+   "JavaScript",
+   "React",
+   "Redux"
+  ]
+ },
+ {
+  "externalKey": "09e39461cdde41a11af2adc8",
+  "date": "2026-11-20",
+  "portal": "Company site",
+  "company": "Stripe",
+  "roleTitle": "Software Engineer, New Grad",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Go",
+   "Java",
+   "JavaScript"
+  ]
+ },
+ {
+  "externalKey": "2b8441192ca2101d2155e7cf",
+  "date": "2026-11-20",
+  "portal": "Company site",
+  "company": "Stripe",
+  "roleTitle": "Software Engineer (Payin/Core Tech/Data Pipeline/FBI, Bengaluru)",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Go",
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "51e1501f438c1ede43a04feb",
+  "date": "2026-11-20",
+  "portal": "Company site",
+  "company": "Rubrik",
+  "roleTitle": "Software Engineer (Bangalore/Pune)",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "C++",
+   "Go",
+   "Java",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "db4be565f2c1b6131a09bb66",
+  "date": "2026-11-20",
+  "portal": "Company site",
+  "company": "Sarvam",
+  "roleTitle": "Frontend Engineer, Chanakya",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "a106e4fc7d4f64b795940013",
+  "date": "2026-11-20",
+  "portal": "Company site",
+  "company": "Sarvam",
+  "roleTitle": "Software Development Engineer - Tejas",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Go",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "7063f2f074227001bfecad47",
+  "date": "2026-11-20",
+  "portal": "Company site",
+  "company": "GitLab",
+  "roleTitle": "Intermediate Backend Engineer / SE Delivery (India)",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Go"
+  ]
+ },
+ {
+  "externalKey": "f294f4549439928dabbb8489",
+  "date": "2026-11-23",
+  "portal": "Cutshort",
+  "company": "appscrip",
+  "roleTitle": "Forward Deployed Engineer (FDE)",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "REST APIs",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "92ece87ebbe8cb8bc1d66c15",
+  "date": "2026-11-23",
+  "portal": "Cutshort",
+  "company": "NeoGenCode Technologies",
+  "roleTitle": "Full Stack Engineer (Python + React.js/Next.js)",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Next.js",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "a2e4ce3e2366d1ed833dc09b",
+  "date": "2026-11-23",
+  "portal": "Cutshort",
+  "company": "Lumoslogic",
+  "roleTitle": "full stack developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "95a6713cec13c557f349ed3c",
+  "date": "2026-11-23",
+  "portal": "Cutshort",
+  "company": "Mellow Vault",
+  "roleTitle": "Software Development Engineer - Intern/Fresher",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "JavaScript",
+   "Node.js",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "df6486de44bc4ce263322c06",
+  "date": "2026-11-23",
+  "portal": "Cutshort",
+  "company": "sisuni technology",
+  "roleTitle": "UI/UX Designers & Developers",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Next.js",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "a6937e99baffc5768cf68c02",
+  "date": "2026-11-23",
+  "portal": "Wellfound",
+  "company": "Digit88",
+  "roleTitle": "Full Stack AI Engineer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "10950900cdfcb6fb54e4c2db",
+  "date": "2026-11-23",
+  "portal": "Hirist/Foundit",
+  "company": "mailermen",
+  "roleTitle": "Frontend / React Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "React"
+  ]
+ },
+ {
+  "externalKey": "181392b237f1586acbd65abb",
+  "date": "2026-11-23",
+  "portal": "Japan Dev",
+  "company": "Japan Trading Card Center",
+  "roleTitle": "Senior Full Stack Engineer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Go",
+   "Next.js",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "9f80c7667e796109bd1b05d4",
+  "date": "2026-11-23",
+  "portal": "Indeed",
+  "company": "Stellaspire",
+  "roleTitle": "MERN/MEAN Developer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "Angular",
+   "Docker",
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "2e8c86deeb8b0d5d7598151c",
+  "date": "2026-11-23",
+  "portal": "Indeed",
+  "company": "various (page 1)",
+  "roleTitle": "Senior/SDE2/SDE3/intern/.NET roles x10",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "e855e878497a44076dd7eb7f",
+  "date": "2026-11-23",
+  "portal": "Remotive",
+  "company": "Fluence International",
+  "roleTitle": "Full-Stack Developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "AWS",
+   "Next.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "f6ee6e862503f14bbd2e2fd0",
+  "date": "2026-11-23",
+  "portal": "Japan Dev",
+  "company": "various (visa-sponsorship list page 1)",
+  "roleTitle": "Mixed Rakuten/Mujin/Wayve/Telexistence etc.",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Go",
+   "Kubernetes",
+   "React Native"
+  ]
+ },
+ {
+  "externalKey": "986ab848bf77e8b0037b3f9b",
+  "date": "2026-11-23",
+  "portal": "Indeed",
+  "company": "Kasar credit and capital",
+  "roleTitle": "Node js developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Microservices",
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "19d73fc3c68d9e0ea2da171e",
+  "date": "2026-11-23",
+  "portal": "Indeed",
+  "company": "FINVASIA",
+  "roleTitle": "Node.js Backend Developer Blockmaze",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "11f88c94ee7db2af60a39f79",
+  "date": "2026-11-23",
+  "portal": "Indeed",
+  "company": "Marctory",
+  "roleTitle": "AI LLM Frontend Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Next.js",
+   "React",
+   "Tailwind",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "2aaecd97c06d5777f7fbe122",
+  "date": "2026-11-23",
+  "portal": "Indeed",
+  "company": "Subhanu Technologies and Solutions",
+  "roleTitle": "Full Stack MERN Developer - AI-Enabled",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Next.js",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "3ad30951e7a973258f0d753c",
+  "date": "2026-11-23",
+  "portal": "Indeed",
+  "company": "Ajaysai Solutions",
+  "roleTitle": "MERN Stack Developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "5d8084fd92abc702e501ee62",
+  "date": "2026-11-23",
+  "portal": "Indeed",
+  "company": "PinnacleU",
+  "roleTitle": "Frontend Developer (Shopify)",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "74fb390805ca987c499df16c",
+  "date": "2026-11-23",
+  "portal": "Remote OK",
+  "company": "Treatwell",
+  "roleTitle": "SEO Full Stack Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java",
+   "React",
+   "Spring Boot",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "de7f27d473bf92657d94c206",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "Digit88",
+  "roleTitle": "Full Stack AI Engineer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "GenAI/LLM",
+   "Next.js",
+   "Node.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "5aa2e95fa5ad9b0c14687604",
+  "date": "2026-11-24",
+  "portal": "Remotive",
+  "company": "Fluence International",
+  "roleTitle": "Full-Stack Developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "AWS",
+   "GenAI/LLM",
+   "Next.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "ba69232ec42b4978b5136030",
+  "date": "2026-11-24",
+  "portal": "WWR",
+  "company": "Dropbox",
+  "roleTitle": "Full Stack Product Software Engineer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "e87f3f01a2c88e0421dd78fe",
+  "date": "2026-11-24",
+  "portal": "Japan Dev",
+  "company": "Japan Dev list (page 1)",
+  "roleTitle": "Mostly senior/Go/Japanese",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Go"
+  ]
+ },
+ {
+  "externalKey": "9c752e51e37bb39fa979ed07",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "Trimpixel",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "51c5b58dd26abf0d60333350",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "TopGrep Tech",
+  "roleTitle": "Full Stack Developer – MERN",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "JavaScript",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "140d55ffce9af98cdc460037",
+  "date": "2026-11-24",
+  "portal": "Indeed",
+  "company": "Gentric AI",
+  "roleTitle": "Full Stack Developer (MERN / Next.js)",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "MongoDB",
+   "Next.js",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "94de2d4dbd54e2a56f5d469d",
+  "date": "2026-11-24",
+  "portal": "Indeed",
+  "company": "TEAMLIO PRIVATE LIMITED",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Docker",
+   "Node.js",
+   "Python",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "3da0b0332a165bafc405ec1f",
+  "date": "2026-11-24",
+  "portal": "Indeed",
+  "company": "Catapult Consulting Services LLP",
+  "roleTitle": "Full-Stack Software Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "220336b4b10d693a051a6c46",
+  "date": "2026-11-24",
+  "portal": "Japan Dev",
+  "company": "Jamm",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "e1dede3887acb12c507ab31a",
+  "date": "2026-11-24",
+  "portal": "Indeed",
+  "company": "The Adbook India",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "17bedbe0f213a62a0b989086",
+  "date": "2026-11-24",
+  "portal": "Indeed",
+  "company": "Tayana Academy",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Degree or certification",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "171eb423a5de2e191a2b2c79",
+  "date": "2026-11-24",
+  "portal": "Japan Dev",
+  "company": "PayPay",
+  "roleTitle": "Frontend Engineer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "JavaScript",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "3be6be3a19662ab5d0e9809a",
+  "date": "2026-11-24",
+  "portal": "WWR",
+  "company": "G-P",
+  "roleTitle": "Software Engineer II",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "Python",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "fb3e52e9b0265b29d7c7ee2d",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "Commenda",
+  "roleTitle": "Software Engineer - Product",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "e6a279a8df4d0ccf81530178",
+  "date": "2026-11-24",
+  "portal": "Indeed",
+  "company": "Andro Buddy Technologies",
+  "roleTitle": "Front End Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Next.js",
+   "React",
+   "Redux"
+  ]
+ },
+ {
+  "externalKey": "ecdb445552efd40627ba288c",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "Simbian AI",
+  "roleTitle": "Frontend Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "497134a262e34cedaa2aee2f",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "Razonica",
+  "roleTitle": "Full Stack Developer (Next.js + Node.js + Cloud/DevOps)",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "AWS",
+   "CI/CD",
+   "Docker",
+   "Next.js",
+   "Node.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "bbb3079dd786fd06af43ca64",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "ValarDigital",
+  "roleTitle": "Full Stack Developer — MERN Stack",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "9ba5e706e41d480c67c7a1d1",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "Gentric",
+  "roleTitle": "Full Stack Developer (MERN / Next.js)",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Next.js",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "9c9a6796c2de3efd54b8ee05",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "The Ninja Studio",
+  "roleTitle": "Full Stack Developer (2-5 years)",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "e8de90b77073df3b084b99c3",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "Arivihan Technologies",
+  "roleTitle": "JAVA Backend Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Java",
+   "Kafka/RabbitMQ",
+   "Redis",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "5dbacbd78208d85aacff5c81",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "WeKnow Group",
+  "roleTitle": "Backend Engineer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java",
+   "SQL",
+   "Spring Boot"
+  ]
+ },
+ {
+  "externalKey": "cbbac1fb75819fee81244efe",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "RentOk",
+  "roleTitle": "Fullstack Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Node.js",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "984b0a59523532b76e870028",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "Xempla",
+  "roleTitle": "Front End Engineer - SDE",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Next.js",
+   "React",
+   "React Native"
+  ]
+ },
+ {
+  "externalKey": "b3c3e058cfbe4db22a10923e",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "RapidData",
+  "roleTitle": "Full Stack Application Developer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "MongoDB",
+   "REST APIs",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "b6817648c44ea6cbfdf3c148",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "(Bangalore)",
+  "roleTitle": "Senior MERN Stack Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "47025cb78277a83fd63e107e",
+  "date": "2026-11-24",
+  "portal": "Wellfound",
+  "company": "Quixta",
+  "roleTitle": "Junior Backend & Data Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Data/ML",
+   "Django/FastAPI/Flask",
+   "Docker",
+   "Python",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "cf095f04f5846eb0c4f3f2f8",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Affobe",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Next.js",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "f1237563e85f890e2d43538a",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "CelestialFuels",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "3–5 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "MongoDB",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "fd8c8a36ef4327c63af9e29c",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "ExlAthena",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "3–5 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "MongoDB",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "d65b67d1ed0abbb11e68bd34",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Triva Consultancy",
+  "roleTitle": "MERN Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "d8ef6211e2aa583f2c189842",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "TAS (Malik S.)",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "bb4c87b5fd583765404a945b",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Logical Soft Tech",
+  "roleTitle": "MERN Stack Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "1b1788d539b10f4c96dc0e8c",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Yeppar",
+  "roleTitle": "MEAN Stack Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "371b72f338c490ac4e3fe225",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "HireAlpha",
+  "roleTitle": "Front End Developer Angular",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Angular"
+  ]
+ },
+ {
+  "externalKey": "9c191f8e9df653a0c315ae5e",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Infinite",
+  "roleTitle": "Senior Full Stack AI Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "d8e9cd6bb7b676bac484398c",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Esol Global",
+  "roleTitle": "Java Full Stack Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "6df2631fdc79097c45f5c2da",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Techsaga",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "e04b4ea07df55c81ea098141",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Trigent",
+  "roleTitle": "Senior .NET Full Stack Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   ".NET/C#"
+  ]
+ },
+ {
+  "externalKey": "e7a886b810ab9e3b40dd0820",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "BlueLift",
+  "roleTitle": "Associate MERN Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "4074ad9d9adaacb499e30643",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "AMUS",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "467639a15dcc89604502fd29",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Aspirox",
+  "roleTitle": "Java Full Stack Developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "9678c9a6ecfdd974925bdc22",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "TechOpus",
+  "roleTitle": "Senior Full Stack Developer .NET",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   ".NET/C#"
+  ]
+ },
+ {
+  "externalKey": "c2c74da1e3348c844e661b23",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "LeopardRuns",
+  "roleTitle": "Full Stack Developer Lead",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "a9fa6556b360b507c3dc5265",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Burgeon IT",
+  "roleTitle": "Senior Full Stack Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "ac657d134192b53573519831",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Relevance Lab",
+  "roleTitle": "Senior Full Stack Engineer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "e3a3031f8a58469eae50dbe0",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Bolo India",
+  "roleTitle": "Lead Full Stack Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "f9e78c54dcd01588255d167f",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Client Server Technology Solutions",
+  "roleTitle": "Java Full Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Java",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "f741dd6c04a9ecee4c1208b4",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "ICS Technology Services",
+  "roleTitle": "Trainee Application Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "a4a9cb106b7dc88bf33d8779",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "SYDIAI",
+  "roleTitle": "Android Developer Intern",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Android/Kotlin"
+  ]
+ },
+ {
+  "externalKey": "84da63c83c4312bfc3fb366a",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "TEN",
+  "roleTitle": "Internship",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "30f4297c53965be221e69eef",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "MWIDM client",
+  "roleTitle": "Backend Developer Next.js NestJS",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Next.js"
+  ]
+ },
+ {
+  "externalKey": "c64161c14fb72f50c4825579",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Intern Nepal",
+  "roleTitle": "Full Stack Developer Internship",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "bc339b98ed103f45a0a283c6",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "InfoVerse Tech Services",
+  "roleTitle": "MERN Full Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "2213863f7c624cb651df4543",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Kittyhawk/Skali (shout post)",
+  "roleTitle": "React.js / Next.js Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Next.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "f1ab58832d2c710914791af2",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Hexaware",
+  "roleTitle": "SAP BTP CAPM Full Stack Developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "SAP"
+  ]
+ },
+ {
+  "externalKey": "c701a0c851ddb83dbcf503fa",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "NexaCore Infotech",
+  "roleTitle": "SAP CAP + Java Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Java",
+   "SAP"
+  ]
+ },
+ {
+  "externalKey": "140ee694e239e2412c21d1f6",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "InfoBeans",
+  "roleTitle": "Senior Backend Developer Node.js",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "c9a56bf04a3136d28f7fc362",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Source4Hire",
+  "roleTitle": "Senior MERN Stack Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "c256769f6e9c5405b693050b",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "ProlificXpert",
+  "roleTitle": "Chrome Extension Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "461b98b57ea0f8ee21a5b7fa",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "SyManSys",
+  "roleTitle": "Senior UI/UX Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "1247763491be616650e0123f",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "LanceSoft",
+  "roleTitle": "Full Stack Agentic AI Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "GenAI/LLM"
+  ]
+ },
+ {
+  "externalKey": "28336155077ff0de57b0f282",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Dharam Vir Infotech",
+  "roleTitle": "Full Stack Developer .NET",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   ".NET/C#"
+  ]
+ },
+ {
+  "externalKey": "c13c7cac8be68e85aa2b7496",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "ForITus Solutions",
+  "roleTitle": "Full Stack Developer Intern",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "9168ca8bab33b5fbc02d7594",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Cinntra",
+  "roleTitle": "Technical Delivery Lead SAP BDC",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "SAP"
+  ]
+ },
+ {
+  "externalKey": "e6d0bf92be31e93db67cac8b",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Logicmotive",
+  "roleTitle": "BA/PM SAP BW4HANA",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "SAP"
+  ]
+ },
+ {
+  "externalKey": "f3fed62fcc25da761cbab25f",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Innovix",
+  "roleTitle": "Data Engineer SAP FICO",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Data/ML",
+   "SAP"
+  ]
+ },
+ {
+  "externalKey": "cf54182b7d9e88eb5984fa49",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "InfoPulse Technology",
+  "roleTitle": "Node.js Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Node.js",
+   "REST APIs",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "481efb54dfdecdfb43b22b42",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "HyphenEdge Software",
+  "roleTitle": "React.js Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "React"
+  ]
+ },
+ {
+  "externalKey": "c76ea73f0399d7af8e0c36a4",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Twsol",
+  "roleTitle": "React + Node.js Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "GraphQL",
+   "Next.js",
+   "Node.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "a5f09d65a23cda9ec4027a06",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "GetWork",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "3b6fd187d56a6fdd82f4a46d",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Digivanta",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "REST APIs",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "7d022b844b7532c5061423ec",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Undisclosed client (Noida)",
+  "roleTitle": "React JS Front Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "fc626024b7334f0b456fd4f0",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Applumy Softwares",
+  "roleTitle": "MERN Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "JavaScript",
+   "MongoDB",
+   "Node.js",
+   "REST APIs",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "8083b3c39ead91a567975286",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Crestline HR (Rajkot agency client)",
+  "roleTitle": "Full Stack / MERN Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "f594f272eba66dfd2d142db4",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Metaforge IT",
+  "roleTitle": "Full-Stack & AI Engineer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "GenAI/LLM",
+   "Next.js",
+   "Node.js",
+   "Python",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "aedd27060e811ef107744526",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "PIPRA Solutions",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "8f01d2b39c93b9eab73a084d",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "AVR Software",
+  "roleTitle": "Junior Software Engineer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "PHP/Laravel",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "525b2ca693493e95cb5a07a2",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Cinemachines",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "Next.js",
+   "REST APIs",
+   "React",
+   "SQL",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "1d3d5563399f554950d29db2",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Codviser",
+  "roleTitle": "Full Stack Developer (Remote)",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "4515197cf7e9f98da699546a",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Lumoraa",
+  "roleTitle": "Data Analyst",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "2c1015929fc920ff802a2aed",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "DziMark",
+  "roleTitle": "Web Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "7cff88dcf53b0d568665df84",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "KRG Tech",
+  "roleTitle": "Junior .NET Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   ".NET/C#",
+   "Python"
+  ]
+ },
+ {
+  "externalKey": "f0f96bd1fcb3116d1a86010d",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Recruweb (Noida)",
+  "roleTitle": "MERN Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "6dc50eb914d738487a0f0bbb",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "RUDR Consultancy (Udaipur client)",
+  "roleTitle": "Jr. Frontend Developer",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "React",
+   "Tailwind",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "8bb962538d504197dba36f25",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "MWIDM",
+  "roleTitle": "Java Full Stack Developer (Hyderabad)",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Java"
+  ]
+ },
+ {
+  "externalKey": "f2db46980fd8be7d09c117d0",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Importerr",
+  "roleTitle": "Full Stack Developer (Noida)",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Next.js",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "5ecdd18fd3c7c26f01825050",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "LiveSecure",
+  "roleTitle": "Senior Full Stack Developer (Remote India)",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "af26a97ffa5cd4e14fa4b470",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Keyvitse",
+  "roleTitle": "React Developer (Gurgaon)",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Next.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "820705d6c8a45e8903354c6d",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Brilzant",
+  "roleTitle": "SAP BW Consultant (Remote)",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "SAP"
+  ]
+ },
+ {
+  "externalKey": "d14ba7eb03c51a0c02661302",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Codeplume",
+  "roleTitle": "SAP Analytics Cloud Consultant (Remote)",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "SAP"
+  ]
+ },
+ {
+  "externalKey": "81938037a5765cfebb2ef424",
+  "date": "2026-11-23",
+  "portal": "LinkedIn",
+  "company": "Successvision HR",
+  "roleTitle": "React Developer (Mumbai)",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "React"
+  ]
+ },
+ {
+  "externalKey": "b2a8891a9ca0e58443ec6e16",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Sowedane",
+  "roleTitle": "MERN Stack Developer",
+  "expBand": "2–3 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "JavaScript",
+   "MongoDB",
+   "Node.js",
+   "REST APIs",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "c6c43c5d819ae155f6731214",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Echo IT Solutions",
+  "roleTitle": "Full Stack MERN Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "MongoDB",
+   "Next.js",
+   "Node.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "445e5c294bd772d131609f39",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Vserve Ebusiness Solutions",
+  "roleTitle": "Full-Stack Developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "GCP",
+   "Node.js",
+   "Python",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "c83d77fcc6c41fcf3ca79cd4",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "WebMobril Technologies",
+  "roleTitle": "MERN Stack Developer Intern",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "a40a5eae1fab1ee0927b8025",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Tech Solutions Pro",
+  "roleTitle": "Software Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "ace156c1b490ef8fa91472e6",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Neemtree Tech Hiring",
+  "roleTitle": "Frontend Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "JavaScript",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "199fd6e6341c8f4f75dc7222",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Zortech Solutions",
+  "roleTitle": "React Native Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "React Native"
+  ]
+ },
+ {
+  "externalKey": "69c37f5b354eb0dcdbb1c391",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Techsist Solutions",
+  "roleTitle": "Drupal Consultant",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "PHP/Laravel"
+  ]
+ },
+ {
+  "externalKey": "6a748e740a65fbfbef8153f9",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "ellow.io",
+  "roleTitle": "Senior .NET Developer",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   ".NET/C#",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "36a217e1761bff39beeb77c2",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Netro Corporation (freelance)",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Django/FastAPI/Flask",
+   "Node.js",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "c60ebde9099e53c37b370f81",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "AI training contract (multiple recruiters)",
+  "roleTitle": "Sr. Full-Stack Software Engineer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "1a18c27edd19b215061ae305",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "SKL Build India",
+  "roleTitle": "Software Developer ERP",
+  "expBand": "5+ yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": []
+ },
+ {
+  "externalKey": "d73a50e9afd1440ad787c232",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Unicraft Tech",
+  "roleTitle": "Fullstack Developer Freshers",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": []
+ },
+ {
+  "externalKey": "96e400ebfc5d9919115404dd",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Shopinger",
+  "roleTitle": "Backend Developer (Node.js)",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "2201ba540d685e9d129d3b90",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Graphketing",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "1–2 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "JavaScript",
+   "MongoDB",
+   "Node.js",
+   "REST APIs",
+   "React",
+   "SQL"
+  ]
+ },
+ {
+  "externalKey": "56fea63d2774eacb8ba624c9",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "IterativeTech",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Angular",
+   "REST APIs",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "dcbfa73f6a9f032897de99a5",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Aventra",
+  "roleTitle": "Full Stack Developer (React/Python/FastAPI)",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "AWS",
+   "Django/FastAPI/Flask",
+   "Node.js",
+   "Python",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "f9d99184460b0f22d470e26d",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Aadvik Tech",
+  "roleTitle": ".NET Core Developer",
+  "expBand": "3–5 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Experience",
+  "skills": [
+   ".NET/C#"
+  ]
+ },
+ {
+  "externalKey": "639babdfbc3339bb12c0ea20",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Kotson IT",
+  "roleTitle": "ServiceNow Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "JavaScript",
+   "ServiceNow"
+  ]
+ },
+ {
+  "externalKey": "a1320b56451064669e82725d",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Vyprox Technology",
+  "roleTitle": "Full Stack Developer (MERN)",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "f3c4c91b53b028ab2ba9d7e4",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "WebReinvent",
+  "roleTitle": "Frontend Developer Next.js",
+  "expBand": "2–3 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "React"
+  ]
+ },
+ {
+  "externalKey": "9e31da9e0f6c298cb6709b3e",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "BizTranSights",
+  "roleTitle": "MERN Stack Developer Intern",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "7e39215f22121f43d2d126a6",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "TechStack Global AB",
+  "roleTitle": "Senior Full Stack Developer",
+  "expBand": "Not stated",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Azure",
+   "GraphQL",
+   "Node.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "a507176809e10f675abb1a83",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Cloud Harbor Technologies",
+  "roleTitle": "Node.js Developer (AI)",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "276e033e2cdda6f3f3553ae5",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "CraftIT Solutions",
+  "roleTitle": "Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "APPLIED",
+  "blocker": "None (applied)",
+  "skills": [
+   "JavaScript",
+   "Node.js",
+   "React",
+   "TypeScript"
+  ]
+ },
+ {
+  "externalKey": "95a9f46f5f745721a42d48b0",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "InfoPulse Technology",
+  "roleTitle": "Node.js Developer",
+  "expBand": "1–2 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Node.js"
+  ]
+ },
+ {
+  "externalKey": "cb949fbeecc9eff74b9ddb29",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Shippin",
+  "roleTitle": "Full Stack Developer MERN",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": [
+   "Express",
+   "MongoDB",
+   "Node.js",
+   "React"
+  ]
+ },
+ {
+  "externalKey": "8d3e2f11d7ce832abdb0e158",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Codocly",
+  "roleTitle": "Software Engineering Intern",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Other",
+  "skills": []
+ },
+ {
+  "externalKey": "8e74c694fbe5bdd7609bbc9a",
+  "date": "2026-11-24",
+  "portal": "LinkedIn",
+  "company": "Athycche HR",
+  "roleTitle": "Java Full Stack Developer",
+  "expBand": "0–1 yrs",
+  "decision": "SKIPPED",
+  "blocker": "Skills",
+  "skills": [
+   "Angular",
+   "Java",
+   "Spring Boot"
+  ]
+ }
+]

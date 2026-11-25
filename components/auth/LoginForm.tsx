@@ -18,6 +18,7 @@ import {
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
+import { DemoLoginButton } from "@/components/auth/DemoLoginButton"
 
 const LoginSchema = z.object({
   email: z.string().email("Invalid email address"),
@@ -108,6 +109,8 @@ export function LoginForm() {
       >
         Continue with Google
       </Button>
+
+      <DemoLoginButton className="w-full" />
 
       <p className="text-center text-sm text-muted-foreground">
         Don&apos;t have an account?{" "}

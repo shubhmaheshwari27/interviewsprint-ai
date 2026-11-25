@@ -1,25 +1,54 @@
-import { auth } from "@/lib/auth"
 import { redirect } from "next/navigation"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { ModeToggle } from "@/components/mode-toggle"
-import { Settings, Bell, Palette, Sparkles, Sliders } from "lucide-react"
+import { Bell, Palette, Sparkles, Upload, Wrench } from "lucide-react"
 import { Switch } from "@/components/ui/switch"
 import { Label } from "@/components/ui/label"
+import { getSessionUser, DEMO_READ_ONLY_MESSAGE } from "@/lib/session-user"
+import { ImportData } from "@/components/settings/ImportData"
+import { SkillsForm } from "@/components/settings/SkillsForm"
 
 export default async function SettingsPage() {
-  const session = await auth()
-  if (!session?.user?.id) redirect("/login")
+  const user = await getSessionUser()
+  if (!user) redirect("/login")
 
   return (
     <div className="space-y-10">
       <div className="space-y-1.5">
         <h1 className="text-4xl font-bold tracking-tight text-slate-900 dark:text-white">Settings</h1>
         <p className="text-lg text-muted-foreground">
-          Manage your app preferences, appearance, and notifications.
+          Manage your skills, import job-hunt data, and set app preferences.
         </p>
       </div>
 
       <div className="grid gap-6">
+        <Card className="border-slate-200 dark:border-slate-800">
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2">
+              <Wrench className="h-5 w-5 text-primary" /> Your skills
+            </CardTitle>
+            <CardDescription>
+              Used for the skill-gap analysis on the Market Gap page and in the offline JD analysis.
+            </CardDescription>
+          </CardHeader>
+          <CardContent>
+            <SkillsForm initialSkills={user.skills} />
+          </CardContent>
+        </Card>
+
+        <Card className="border-slate-200 dark:border-slate-800">
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2">
+              <Upload className="h-5 w-5 text-primary" /> Import job-hunt data
+            </CardTitle>
+            <CardDescription>
+              {user.isDemo ? DEMO_READ_ONLY_MESSAGE : "Bring in applications and screened jobs from a spreadsheet or tracker."}
+            </CardDescription>
+          </CardHeader>
+          <CardContent>
+            <ImportData />
+          </CardContent>
+        </Card>
         <Card className="border-slate-200 dark:border-slate-800">
           <CardHeader>
             <CardTitle className="flex items-center gap-2">

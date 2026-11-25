@@ -1,115 +1,121 @@
-# 🚀 InterviewSprint AI
+# InterviewSprint AI
 
-**InterviewSprint AI** is a professional, full-stack career management platform designed to streamline the job search process. By combining robust application tracking with advanced AI insights, it helps job seekers stay organized and prepare effectively for their next big role.
+**Run your job search like a data project.** Track every application, see which channels actually reply,
+learn which skills the market asks for, and prepare for each interview with AI.
 
-![Banner Section](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&q=80&w=2000)
+**Live demo:** https://interviewsprint-ai.vercel.app (click **Try the live demo**, no sign-up needed)
 
-## ✨ Core Features
+The demo account holds real, anonymised data from my own job search in November 2026. I ran it with an
+automated daily routine that applied through Indian job portals and emailed recruiters, and logged every job it
+screened. Recruiter names, emails, phone numbers and notes are removed; company and role names are kept.
 
-- **📊 Centralized Dashboard**: Real-time analytics on your application status distribution and recent activity.
-- **📝 Application Management**: Full CRUD operations for job applications with detailed tracking (Role, Company, Salary, Tech Stack).
-- **📅 Interview Timeline**: Manage multiple interview rounds per application with status updates and notes.
-- **🤖 AI-Powered Analysis**: Leverage **OpenAI GPT-4o** to:
-  - Generate customized interview questions based on the Job Description (JD).
-  - Identify skill gaps and receive actionable improvement advice.
-  - Create a 4-week preparation roadmap tailored to the specific role.
-- **🔐 Secure Authentication**: Integrated Auth.js v5 supporting both Google OAuth and traditional credentials.
-- **🔍 Advanced Filtering**: Search and filter applications by status, company name, or role title.
+## What the data showed
 
-## 🛠️ Technical Architecture
+| | |
+|---|---|
+| Applications tracked | **194** over 8 active days (Naukri, Instahyre, Wellfound, LinkedIn, Cutshort, Indeed, direct email) |
+| Jobs screened for the market analysis | **524**, each with the skills and experience it required |
+| Best channel | **Emailing recruiters directly: 14.3% response rate**, against under 5% on every job portal |
+| Most demanded skills | React (in 48% of screened jobs), Node.js (36%), SQL (22%), TypeScript (19%) |
+| Skills to learn next | **Python** was the only skill I was missing in 29 of the screened jobs, followed by **Spring Boot** (19) |
 
-Built with a modern, scalable stack focusing on performance and type safety:
+Those findings changed how I searched: more direct emails and referrals, fewer portal applications, and a
+Spring Boot service in this project to close the second-biggest gap.
 
-- **Framework**: [Next.js 16](https://nextjs.org/) (App Router, Server Components, Server Actions)
-- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/) + [shadcn/ui](https://ui.shadcn.com/)
-- **Database**: [PostgreSQL](https://www.postgresql.org/) via [Prisma ORM](https://www.prisma.io/)
-- **Authentication**: [Auth.js v5](https://authjs.dev/) (NextAuth)
-- **AI Integration**: [OpenAI API](https://openai.com/)
-- **Validation**: [Zod](https://zod.dev/) + [React Hook Form](https://react-hook-form.com/)
-- **Visualizations**: [Recharts](https://recharts.org/)
+## Screenshots
 
-## 🚀 Getting Started
+| Job-hunt analytics | Market gap |
+|---|---|
+| ![Analytics](docs/screenshots/analytics.jpg) | ![Market gap](docs/screenshots/market.jpg) |
 
-### Prerequisites
+![AI interview prep with the offline fallback](docs/screenshots/ai-prep.jpg)
 
-- Node.js 20.x or higher
-- PostgreSQL instance (Local or [Neon](https://neon.tech/))
-- Google Cloud Project (for OAuth)
-- OpenAI API Key
+## Features
 
-### Installation
+- **Applications & interview rounds** – full CRUD with status tracking, filters and interview-round timeline.
+- **Job-hunt analytics** – applications per day, funnel (applied → responded → interview → offer),
+  applications and response rate by portal.
+- **Market gap** – which skills the screened jobs ask for (highlighting the ones you have), why jobs were
+  skipped, experience asked for, and the missing skills that would unlock the most jobs.
+- **AI interview prep** – per job description: likely questions, skill gaps, resume tips and a prep roadmap.
+- **CSV import** – bring in applications and screened jobs from any tracker; re-imports are idempotent.
+- **Read-only demo account** – every write action is blocked for it on the server.
 
-1. **Clone & Install**
-   ```bash
-   git clone https://github.com/your-username/interviewsprint-ai.git
-   cd interviewsprint-ai
-   npm install
-   ```
+## Built to degrade gracefully
 
-2. **Environment Setup**
-   Create a `.env.local` file in the root directory:
-   ```env
-   # Database
-   DATABASE_URL="postgresql://user:password@localhost:5432/interviewsprint"
+Two parts of the system are optional, and neither can take the app down:
 
-   # Auth.js
-   AUTH_SECRET="your-32-char-secret"
-   AUTH_URL="http://localhost:3000"
+- **AI provider (OpenAI).** The client is created lazily (a missing key no longer crashes at import), calls have
+  a 20 s timeout and one retry, and the response is validated with Zod. If the AI is unconfigured, slow, failing or
+  returns unusable JSON, the app generates an **offline analysis** from the job description and the user's skills,
+  and labels it as such. After a failure, a 60-second circuit breaker skips the AI so users don't each wait for
+  another timeout.
+- **Java analytics service.** When `ANALYTICS_SERVICE_URL` is set, the Analytics and Market Gap pages ask the
+  Spring Boot service for their summaries with a 2-second timeout and validate the reply. On any failure the same
+  summary is computed in the app. The page shows which engine answered.
 
-   # Google OAuth
-   AUTH_GOOGLE_ID="your-google-client-id"
-   AUTH_GOOGLE_SECRET="your-google-client-secret"
+## Architecture
 
-   # AI
-   OPENAI_API_KEY="your-openai-api-key"
-
-   # App
-   NEXT_PUBLIC_APP_URL="http://localhost:3000"
-   ```
-
-3. **Database Migration**
-   ```bash
-   npx prisma generate
-   npx prisma migrate dev --name init
-   ```
-
-4. **Run Development**
-   ```bash
-   npm run dev
-   ```
-
-## 📐 Project Structure
-
-```bash
-├── app/                # Next.js App Router (Auth, Dashboard, API)
-├── components/         # Reusable UI & Feature-specific components
-├── actions/            # Server Actions for Mutations (Applications, AI, Rounds)
-├── lib/                # Shared Utilities (Prisma, Auth Config, Schemas)
-├── prisma/             # Database Schema & Migrations
-├── public/             # Static Assets
-└── types/              # Global TypeScript Definitions
+```mermaid
+flowchart LR
+  B[Browser] --> N["Next.js 16 app<br/>Server Components + Server Actions"]
+  N --> DB[(PostgreSQL<br/>Prisma)]
+  N -. optional, 2 s timeout .-> J["analytics-service<br/>Spring Boot 3 / Java 17"]
+  N -. optional, 20 s timeout .-> O[OpenAI API]
+  J -. on failure .-> F1[built-in TS analytics]
+  O -. on failure .-> F2[offline rule-based analysis]
+  T["Daily job-hunt automation<br/>(tracker CSV)"] -- CSV import / demo seed --> N
 ```
 
-## 🛡️ Security & Performance
+## Tech stack
 
-- **Middleware Protection**: All `/dashboard` routes are strictly protected at the edge.
-- **Server-Side Validation**: All mutations are validated using Zod schemas to ensure data integrity.
-- **Surgical Updates**: Implemented specialized update logic to prevent accidental data overwrites during partial updates.
-- **Optimized Data Fetching**: Utilizes React Server Components (RSC) to minimize client-side JavaScript and eliminate waterfalls.
+| Layer | Technology |
+|---|---|
+| Web app | Next.js 16 (App Router, Server Components, Server Actions), React 19, TypeScript |
+| UI | Tailwind CSS v4, shadcn/ui, Recharts |
+| Data | PostgreSQL, Prisma ORM (migrations applied on deploy) |
+| Auth | Auth.js v5: Google OAuth and email/password |
+| AI | OpenAI API with Zod validation and an offline fallback |
+| Analytics service | Java 17, Spring Boot 3, Bean Validation, Actuator, JUnit 5, Docker |
+| Quality | Vitest (web), JUnit + MockMvc (service), GitHub Actions CI |
+| Hosting | Vercel |
 
-## 🚀 Deployment
+## Project structure
 
-The project is optimized for deployment on **Vercel**.
+```
+app/                 Next.js routes: landing, auth, dashboard (applications, analytics, market, prep, settings)
+actions/             Server actions: applications, interview rounds, AI analysis, CSV import, skills
+components/          UI and feature components (analytics charts, settings forms, ...)
+lib/                 analytics.ts, market.ts, skills.ts, csv.ts, import.ts, ai/analysis.ts, analytics-client.ts
+prisma/              schema, migrations, demo seed (seed-demo.ts + demo/*.json)
+analytics-service/   Spring Boot service (see its README)
+tests/               Vitest unit tests
+scripts/migrate.mjs  build-time migration runner
+```
 
-1. Connect your GitHub repository to Vercel.
-2. Add the environment variables defined in `.env.local`.
-3. Vercel will automatically detect the Next.js project and handle the build process.
-4. Ensure your build command includes Prisma generation: `npx prisma generate && next build`.
+## Run locally
 
-## 📜 License
+```bash
+npm install
+cp .env.example .env.local      # fill in DATABASE_URL and AUTH_SECRET at least
+npx prisma migrate deploy
+npm run seed:demo               # optional: loads the demo account
+npm run dev
+```
 
-This project is licensed under the MIT License.
+`OPENAI_API_KEY` and `ANALYTICS_SERVICE_URL` are optional; without them the app uses its offline analysis and
+built-in analytics. To run the Java service, see [analytics-service/README.md](analytics-service/README.md).
+
+## Tests
+
+```bash
+npm test                        # Vitest: analytics, market gap, CSV import, AI fallback
+npm run typecheck
+cd analytics-service && mvn verify   # JUnit + MockMvc
+```
+
+CI runs all of these on every push.
 
 ---
 
-Built with ❤️ by **Shubh Maheshwari**
+Built by **Shubh Maheshwari** · [LinkedIn](https://www.linkedin.com/in/shubh-maheshwari/) · [Portfolio](https://shubhmaheshwari.vercel.app/)

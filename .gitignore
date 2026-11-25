@@ -65,3 +65,6 @@ UI_UX_GUIDELINES.md
 *.log
 .gemini
 .antigravity
+
+# java
+analytics-service/target/

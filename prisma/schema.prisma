@@ -16,12 +16,15 @@ model User {
   emailVerified DateTime?
   image         String?
   password      String?   // null for OAuth-only users
+  skills        String[]  @default([]) // the user's own skills, used for skill-gap analysis
+  isDemo        Boolean   @default(false) // read-only public demo account
   createdAt     DateTime  @default(now())
   updatedAt     DateTime  @updatedAt
 
   accounts      Account[]
   sessions      Session[]
   applications  Application[]
+  marketSignals MarketSignal[]
 
   @@map("users")
 }
@@ -77,6 +80,13 @@ enum ApplicationStatus {
   WITHDRAWN
 }
 
+enum ApplicationChannel {
+  PORTAL   // applied through a job portal (Naukri, LinkedIn, Wellfound, ...)
+  EMAIL    // emailed a recruiter directly
+  REFERRAL
+  OTHER
+}
+
 enum InterviewRoundType {
   PHONE
   TECHNICAL
@@ -105,6 +115,10 @@ model Application {
   notes           String?           @db.Text
   salaryRange     String?           @db.VarChar(50)
   interviewStage  String?           @db.VarChar(200)
+  portal          String?           @db.VarChar(50)
+  channel         ApplicationChannel @default(PORTAL)
+  source          String            @default("MANUAL") @db.VarChar(20) // MANUAL | IMPORT
+  externalKey     String?           @db.VarChar(200) // stable id from an import, makes re-imports idempotent
   createdAt       DateTime          @default(now())
   updatedAt       DateTime          @updatedAt
 
@@ -112,6 +126,7 @@ model Application {
   interviewRounds InterviewRound[]
   aiAnalysis      AIAnalysis?
 
+  @@unique([userId, externalKey])
   @@index([userId])
   @@index([userId, status])
   @@index([userId, applicationDate(sort: Desc)])
@@ -143,10 +158,37 @@ model AIAnalysis {
   skillGaps           Json     // Array of { skill: string, importance: string, reason: string }
   resumeTips          Json     // Array of strings
   preparationRoadmap  Json     // Array of { week: number, focus: string, resources: string[] }
+  source              String   @default("AI") @db.VarChar(20) // AI | RULES (offline fallback when the AI provider is unavailable)
   generatedAt         DateTime @default(now())
   updatedAt           DateTime @updatedAt
 
   application         Application @relation(fields: [applicationId], references: [id], onDelete: Cascade)
 
   @@map("ai_analyses")
+}
+
+// ─── Job-market signals ────────────────────────────────────────────────────
+// One row per job posting that was screened (applied to or skipped), with the
+// skills it required. Powers the Market Gap page: what the market asks for and
+// which skills would unlock the most jobs.
+
+model MarketSignal {
+  id          String   @id @default(cuid())
+  userId      String
+  date        DateTime
+  portal      String   @db.VarChar(50)
+  company     String?  @db.VarChar(100)
+  roleTitle   String   @db.VarChar(150)
+  expBand     String   @db.VarChar(20) // "0–1 yrs", "1–2 yrs", ..., "Not stated"
+  decision    String   @db.VarChar(20) // APPLIED | SKIPPED
+  blocker     String   @db.VarChar(40) // None (applied) | Experience | Skills | Degree or certification | Other
+  skills      String[]
+  externalKey String?  @db.VarChar(200)
+  createdAt   DateTime @default(now())
+
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, externalKey])
+  @@index([userId, date])
+  @@map("market_signals")
 }
